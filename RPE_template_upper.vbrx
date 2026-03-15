@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<patientTemplate name="RPE_template_upper">
+	<version>4.1.0.12</version>
+	<sex>female</sex>
+	<birthDate>2024-01-01</birthDate>
+	<objectsFolder>RPE_template_upper_a3f8c2e1b7d94f560e2a1c3d5b8f0e72</objectsFolder>
+	<template name="RPE_template_upper">
+		<image type="icon">
+			<imageData>
+			AAABAAEAKCggAAAAAABoGgAAFgAAACgAAAAoAAAAUAAAAAEAIAAAAAAAABkAAAAAAAAAAAAAAAAAAAAA
+			AAAA////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+			//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+			//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBdXf4ANDT+ADQ0/gA0
+			NP4ANDT+ADQ0/gA0NP4ANDT+ADQ0/gA0NP4AOFb+AEtq/gBfdv4Aann+AGZ3/iqImv5juMv+g9fr/nHP
+			4v5ftMP+cMDS/obU6P5y0ev+JqbL/ketwP44lqr+GXKJ/gBRav4AQlv+ADU6/gA0NP4ANDT+ADQ0/gA0
+			NP4ANDT+ADQ0/gA0NP4AXV3+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAIR/gAVL/4ALUj+AD5R/gA2TP41ZHv+cqG3/o+/1/51q8H+dKG2/oO2z/6Mxeb+eb3l/kiX
+			wf5Ljab+KWeB/g1EYf4AKkn+ABI4/gACCf4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ADR3+ACdC/gBD
+			V/4AOEz+IFhu/luTqf9/tcv+bqC1/muds/5tq8T+dbXU/n652v6Ds8/+Y5Oo/iVYcP4EME3+AR9A/gQU
+			Qv4CBBf+AAAI/gAAAv4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAcX/gAmQf4AU2j+AEZZ/gBPZP5Chp3+frLJ/nWh
+			tv5dkKf+XZWs/m+etP6Nq77+pbvJ/oycqv5LX3T+JzZS/iYtUP4yQGv+LDBR/hwfNP4LDRf+AAAB/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gABE/4AHTz+AFBq/gBMYP4BXHH+TJOp/nyswv5FepD+S3WI/niisf5mmbT+MGaQ/hU4
+			Yf5PX3z+fIKc/qKqwv7C0+b+3vP5/tHj9v6Ppb3+PUtf/gAACf4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ABxr+ACBC/gBJ
+			Y/4ATWX+AFNs/jZ6kv5klav+WYGW/lmMnP5ij6L+cI+q/oSXtv6gr8j+t8fd/sTa5/7I5/H+zvD5/uT3
+			/v7j8v3+jaO0/jVNZf4AECX+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AA4i/gApTP4ASWT+AEZi/gZTbf4tc4n+V4ue/meJ
+			nP5wlqr+gp2z/qO1yf7D1OP+0Of0/tXt/P7R8Pz+0PH8/tTw/P7b6/f+xd3r/neVpv4rSmL+ABYt/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAF/gARKP4AL1L+AEtn/gA/W/4IU2r+OXqN/muYqv56nbD+hqe9/qW70f7A1+b+yenz/r3j
+			7/7D4vD+v+Dw/sHc7v7E1+n+w9Hi/qK+0P5wkqT+MVRq/gAYL/4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gECEv4EFzX+BDVX/gFP
+			af4AQVv+CFRo/laJm/6btsj+lbfN/pS4zv6qx9z+psvd/pbE1f6Pucz+oLvP/qfA1P6nus/+oq/G/qGr
+			w/6Uprz+hqCz/k1uhP4IJT7+AgIH/gAAAf4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4LECv+GTdZ/h1bdv4MaHz+AGuB/id1iv5xmaz+qbbL/qet
+			yf6Eja7+i4yl/niHmv5igZT+a4Wd/n2Gm/6QjKH+nZaq/p+bsf6Rka/+panH/qSwyP54jqb+Nk9s/hES
+			Lv4CAgj+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			CP4AADT+Ch9c/iJLeP4laIP+B2yC/gBxif44fJX+dZet/pupvv6Zobr+dIms/lp0k/5YcIn+aHeN/oOE
+			m/6Vkqf+g4mh/nB1i/5eYXj+S1l9/mZtlP6DgqL+dXuY/kpXeP4nJ07+BgYO/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gACD/4ACzb+ACFt/hxHgP5Kc5b+XY2i/kGJ
+			nf4kgJf+VImg/nyZrv6Vo7j+m6K5/n2Tsv5Yepn+Um+L/mNziv58fJP+i4+k/nmHof5xfJX+d3qQ/oGJ
+			pP6ZnLf+qqjB/qKiuP5/gZz+Pz9u/gsLE/4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAACv4ABy7+Ax5m/hVLkP5Ecpv+e5y0/pm2xv6Ir8D+UI+j/nylt/6QrcD+mK7D/qOy
+			xv6Horr+WJGq/kZ+mP5RdI/+bn6Z/oWaq/56kKf+ipix/qyxxv7Dxdj+ztPi/sjO4P66v87+lJar/js/
+			bf4KCxP+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAv4AAif+BBNY/hU5
+			gP5KapT+eo+z/p2x0P6vx9/+qMbU/nOaqv6lxtX+psve/pe/1P6cwNT+fq28/kCouP4pjqb+Pnud/m6Q
+			s/6Yu8r+iKS1/p6yyP7F0uj+v8zh/rrL3v6ousz+jZ+x/l9wh/4VHkD+AwUN/gAAAf4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AABH+AxNP/iM8gP5ecYr+gIma/pmfyv6SqOD+gKXV/nyf
+			t/6ctsP+nbrJ/n2sv/5jnLL+ZpWn/mqZq/5LlKX+P4Ga/lJ7mf6AmbD+ibDN/nWeuv6Xssj+x9Ll/r7M
+			4f69zd7+iZmn/kFecP4ILEb+AQIm/gAAF/4AAAf+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAQ1/hgtb/5DX5L+coCX/n+Dov6Tp8r+gqLG/mWIqv5YdpH+j52u/naNnP5hipv+Y5Op/n+k
+			uP6TrcH+o7zP/qvC1v6juc3+gJyx/jJipf5IfKf+nLzO/tPb5/6Nmbn+lZiy/mR6kv48Xn7+MVF3/jxS
+			Zv4KDyf+AAAJ/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAB+AAAG/hAaUv4uR37+T2uR/mx6
+			mv6BjLX+nLTN/pu1yP6Cmq/+YH2S/nuLn/5wgpT+fJSm/pqyxv65zN/+usne/tHZ7f7b5Pb+y9vq/piw
+			wP4pVJX+PG2i/pS4zf690N7+Rl6a/ldZmP5BVI7+NFaR/kJmmv5mf5D+Ehwz/gACC/4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAE/gIDGv4oOGn+P1uE/lNvkf5tgKf+kqbM/qzA1P65ydf+rr7N/oul
+			tf6GnLD+hpyw/pquwf65xtj+0Nnr/s/Y7/7c5fn+3en7/s3e7v6ovs3+Yn6j/m2Pt/6oxtr+s8vd/jBS
+			m/4yQpj+MkaV/i9Rmf49Y57+cICW/hQfNP4ABAv+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gED
+			C/4MEjz+O1B8/klljP5deZ/+iKLJ/rDF2f61xtn+u8vc/sDR4f6/0uP+utHj/qvN3/6VvtD+i6/B/p6v
+			xf7M0+r+2eL2/sja6/6pw9f+jqrF/p+wvf7F093+5+/1/tni7v57k8H+RGOp/jpgn/42XZX+OliK/l1l
+			gf4RFyj+AAIH/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAv4ICxT+LEFU/kFRef5MWYj+ZXSd/o6l
+			v/6pt8r+sL7S/rjF1v67ydn+uMze/rvZ6v7P5ff+vNrp/pS+zv6AqLv+y9zy/rzL3/5njKL+IFh8/i9k
+			ov4yapP+ZIel/rG90/7m5Pb+xcnd/kdjqf4vWpb+OmGM/lBjhf5oZYD+EhIY/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAb+Cw8h/kFXav5WaH/+bHaR/oSOp/6crr/+obHH/rDC2v65yuH+vs7h/sDS
+			4v7E2+3+1eb2/sXd7P6jxNT+kbDB/uTs9v6hr7/+S3uQ/iBpjv43eLj+N22o/ilblv5lfqn+vbjM/s7J
+			0/5tc6j+TGCb/mF9qP5/lKr+Xltv/hAQFP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAI/g0R
+			J/5KYnb+Z3qK/n2LnP6Snq/+orLC/qe5zf6xx9/+uMvl/r3O5P7D1OX+ytvs/svb7P7G2uv+ssvc/pqy
+			xf7f3en+mKOz/leFmP5DiaT+W5W//jtvpf40YZT+eIuu/svE0/7QytT+jo2v/n2Js/6Opcb+kqO2/kM/
+			Tv4MCw7+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAACf4PEyr+UGl9/nGDlP6ElKX+k6Kz/qKw
+			w/6zxdT+tMjf/rTH4f64yeH+wNHj/sXT5P66zN/+wNPm/rvO4v6bscX+vrzS/qyxwv6AnrD+ZZmr/nOm
+			uP41b5X+WHuX/q+3x/7v6PH+zcnZ/oaPqf6as8r+rMXa/o+brv40MD3+CQgK/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAr+EhYu/l1whP54hpr+i5ep/pajtv6frsH+ucXW/rPE3P6xwdv+tcXb/rzL
+			3f6ywtX+rMDT/rjJ3P68y97+o7fL/paiuf7Y0+b+urzQ/nmVqf5up7f+PICX/miJnf66ws3+7u70/r2+
+			1P5IZ4f+hLHF/qjK2f6IkaT+R0JS/g0MD/4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAH/hEU
+			KP5eb4L+e4qa/pGgsv6drL/+oq7B/q64zv6xvtX+sb7W/rC/1v6vv9b+qbvP/rLB1P6+ytz+ytbo/s3c
+			8P6eqcD+vcHa/tDS6/7HzuL+prnJ/pKwwf6yxdX+1OHt/tro8/6vv9D+c4KW/m6GmP5+j6P+dXWK/hwX
+			J/4FBAb+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAABP4PER/+U191/nyLm/6Xpbb+pLDF/qu1
+			y/6uts7+sr3Q/rS+1P6xutT+q7PO/q20zf68xdn+yNDi/tLY7P7Z3/b+wsXe/sfN5P7K1ev+xtXq/sDN
+			4/7G1en+ztnr/svU5/68x9r+orTI/ouarf52ipz+XGyC/jc7Uv4HBQr+AQEB/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAB+Cw0W/j1HYf5zgZT+lKK0/qSwxv6tt83+sbjO/re90P63u9H+s7XO/rCx
+			yv63t9H+w8bc/snO4/7P1On+2Nvy/tfW7v7R1Or+yNLn/sLP5f7EzuX+xc/m/sDF3P6zts/+oarC/pCk
+			uP6FlKj+a3iQ/j9HYf4QEyf+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gYI
+			Dv4iMEz+Xm6D/oSVqf6aqL7+p7TI/q+3yv62uc7+tbXM/rOxyP6zscb+vrzU/sPC2/7Dx93+x83h/tHV
+			6/7Y2O3+1dTr/tDR6f7KzuX+wMng/rG80/6prcj+oaO//pWdtv6GmKr+dYKY/lpee/4uLEf+BAIP/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4ABQr+Bx88/j9Ybf5ofZD+h5et/put
+			wv6eq8L+pa3F/quuxf6trcL+rKu+/ra2zP66utT+vr7X/sTD2v7Kyt/+0tLn/tjW7v7a2PL+19ny/svY
+			7v69zd/+tMDW/qyyy/6go7z+k5mv/nyInv5eYXz+LCs9/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAG/gEFJ/4nO1j+S193/mh1jv58h6P+j5y1/pWju/6apLv+nqK4/qKh
+			tf6np7z+ra3H/rS0y/64uMz+u7rP/sfH3f7Q0en+1dbu/tPW7v7H0Of+vcLa/rS30f6xssv+sLDG/qOo
+			vv6FiKX+Q0Ji/hIRI/4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			Av4AAA3+DBk5/i09Xf5OXXf+ZG6I/m18lP5zgZz+f4yn/omRrf6Ojqn+k5Op/qGguv6sq8X+srLK/rOz
+			yv66utD+wcHY/sTF3P7Cwtn+trfQ/qytxv6qqsL+q6rB/qiovv6cnbX+ZmaI/iYlOv4FBAv+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAFGv4RHDz+LDtb/klX
+			cv5aZ3/+W2iD/mRzj/5xf5z+f4ai/n6Amf6NjKf+m5q1/qOjvf6mpr7+qam//qysw/6trMT+qqnA/qOg
+			uv6hn7f+oqC3/qCetP6Skqr+dXWT/jU0T/4ODhf+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAT+AAMZ/gwXOP4nOFn+SVRy/k5adf5RYHr+XGyH/nB9
+			l/5rdI7+dXiT/oCCnP6LjKf+kJGs/pKTrf6Tk67+kpOt/pKUrf6Ula3+mJev/pSUqv6Ghp3+aWqE/jk5
+			WP4JCRb+AAAD/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAA7+AgUw/hcoUv44SGr+RlJw/kxVcv5TX3z+Xm+K/mFqhf5la4f+bXOP/nZ7
+			mf56fJz+eH2Z/nmCnP6Bi6P+iJOq/oKLpP5tc43+TE5v/iQkRv4AAA7+AAAB/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAC/gAB
+			Cf4EBxX+Cg4w/hwfR/4uMFb+OTtd/kNMbf5OVnT+U1h2/ldZef5dYH/+aWyK/mhvjP5nbYz+ZmqL/l9j
+			hf5DSGz+IiRO/g8QLf4GBg/+AAAC/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAD/gAADf4HBxf+Dw8i/hQT
+			L/4cHj/+JShM/istUf4vL1T+MTJV/jQ0Wf40NFn+MTFU/issSv4hIj3+FBUm/gYHGP4AAAv+AAAB/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAw/gAMI/4ACCr+Dg4l/g4O
+			Jf4MCyP+DAoj/goIHv4FBRb+AAAM/gAAAf4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8AXV3+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAz
+			M/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAz
+			M/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+AF1d/gD+
+			/v4A////AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9
+			/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9
+			/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/v7+AAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAA
+			</imageData>
+		</image>
+		<!-- ======================== DigPoints t0 (idx 1-28) ======================== -->
+		<!-- Dente 16: primo molare permanente destro -->
+		<element type="DigPoint" idx="1">
+			<name>16MV_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="2">
+			<name>16DV_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="3">
+			<name>16MP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="4">
+			<name>16GP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="5">
+			<name>16M_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="6">
+			<name>16FaCC_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<!-- Dente 26: primo molare permanente sinistro -->
+		<element type="DigPoint" idx="7">
+			<name>26MV_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="8">
+			<name>26DV_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="9">
+			<name>26MP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="10">
+			<name>26GP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="11">
+			<name>26M_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="12">
+			<name>26FaCC_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<!-- Dente 13: canino destro -->
+		<element type="DigPoint" idx="13">
+			<name>13CI_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="14">
+			<name>13GP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="15">
+			<name>13D_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<!-- Dente 23: canino sinistro -->
+		<element type="DigPoint" idx="16">
+			<name>23CI_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="17">
+			<name>23GP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="18">
+			<name>23D_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<!-- Incisivi centrali -->
+		<element type="DigPoint" idx="19">
+			<name>11D_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="20">
+			<name>21D_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<!-- Molari decidui I (54/64) -->
+		<element type="DigPoint" idx="21">
+			<name>54MP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="22">
+			<name>54GP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="23">
+			<name>64MP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="24">
+			<name>64GP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<!-- Molari decidui II (55/65) -->
+		<element type="DigPoint" idx="25">
+			<name>55MP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="26">
+			<name>55GP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="27">
+			<name>65MP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="28">
+			<name>65GP_t0</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<!-- ======================== DigPoints t1 (idx 29-56) ======================== -->
+		<element type="DigPoint" idx="29">
+			<name>16MV_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="30">
+			<name>16DV_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="31">
+			<name>16MP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="32">
+			<name>16GP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="33">
+			<name>16M_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="34">
+			<name>16FaCC_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="35">
+			<name>26MV_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="36">
+			<name>26DV_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="37">
+			<name>26MP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="38">
+			<name>26GP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="39">
+			<name>26M_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="40">
+			<name>26FaCC_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="41">
+			<name>13CI_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="42">
+			<name>13GP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="43">
+			<name>13D_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="44">
+			<name>23CI_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="45">
+			<name>23GP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="46">
+			<name>23D_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="47">
+			<name>11D_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="48">
+			<name>21D_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="49">
+			<name>54MP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="50">
+			<name>54GP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="51">
+			<name>64MP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="52">
+			<name>64GP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="53">
+			<name>55MP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="54">
+			<name>55GP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="55">
+			<name>65MP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="56">
+			<name>65GP_t1</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<!-- ======================== DerPoints (idx 57-60) — tipo Midpoint ======================== -->
+		<!-- Midpoint: "The point lies between two other points" (da documentazione Viewbox) -->
+		<element type="DerPoint" idx="57">
+			<name>midMP_t0</name>
+			<type>Midpoint</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="3" ref2="9"/>
+		</element>
+		<element type="DerPoint" idx="58">
+			<name>midMP_t1</name>
+			<type>Midpoint</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="31" ref2="37"/>
+		</element>
+		<element type="DerPoint" idx="59">
+			<name>midInc_t0</name>
+			<type>Midpoint</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="19" ref2="20"/>
+		</element>
+		<element type="DerPoint" idx="60">
+			<name>midInc_t1</name>
+			<type>Midpoint</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="47" ref2="48"/>
+		</element>
+		<!-- ======================== Variables (idx 61-108) ======================== -->
+		<!-- Distance1 = "The distance between two points" (distanza euclidea 3D) -->
+		<!-- Difference = "The difference between two variables" (ref1 - ref2) -->
+		<!-- 3.1 Larghezze intercanine (13CI vs 23CI, 13GP vs 23GP) -->
+		<element type="Variable" idx="61">
+			<name>Intercanine_cusp_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="13" ref2="16"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="62">
+			<name>Intercanine_cusp_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="41" ref2="44"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="63">
+			<name>Intercanine_cusp_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="62" ref2="61"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="64">
+			<name>Intercanine_GP_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="14" ref2="17"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="65">
+			<name>Intercanine_GP_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="42" ref2="45"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="66">
+			<name>Intercanine_GP_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="65" ref2="64"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<!-- 3.2 Larghezze I molari decidui 54/64 -->
+		<element type="Variable" idx="67">
+			<name>Intermolar_54_64_cusp_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="21" ref2="23"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="68">
+			<name>Intermolar_54_64_cusp_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="49" ref2="51"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="69">
+			<name>Intermolar_54_64_cusp_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="68" ref2="67"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="70">
+			<name>Intermolar_54_64_GP_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="22" ref2="24"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="71">
+			<name>Intermolar_54_64_GP_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="50" ref2="52"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="72">
+			<name>Intermolar_54_64_GP_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="71" ref2="70"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<!-- 3.3 Larghezze II molari decidui 55/65 -->
+		<element type="Variable" idx="73">
+			<name>Intermolar_55_65_cusp_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="25" ref2="27"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="74">
+			<name>Intermolar_55_65_cusp_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="53" ref2="55"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="75">
+			<name>Intermolar_55_65_cusp_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="74" ref2="73"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="76">
+			<name>Intermolar_55_65_GP_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="26" ref2="28"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="77">
+			<name>Intermolar_55_65_GP_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="54" ref2="56"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="78">
+			<name>Intermolar_55_65_GP_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="77" ref2="76"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<!-- 3.4 Larghezze I molari permanenti 16/26 -->
+		<element type="Variable" idx="79">
+			<name>Intermolar_16_26_MP_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="3" ref2="9"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="80">
+			<name>Intermolar_16_26_MP_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="31" ref2="37"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="81">
+			<name>Intermolar_16_26_MP_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="80" ref2="79"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="82">
+			<name>Intermolar_16_26_GP_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="4" ref2="10"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="83">
+			<name>Intermolar_16_26_GP_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="32" ref2="38"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="84">
+			<name>Intermolar_16_26_GP_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="83" ref2="82"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="85">
+			<name>Intermolar_16_26_MV_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="1" ref2="7"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="86">
+			<name>Intermolar_16_26_MV_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="29" ref2="35"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="87">
+			<name>Intermolar_16_26_MV_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="86" ref2="85"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<!-- 3.5 Angolo diedro fra piani molari 16 vs 26 -->
+		<!-- Strategia: centroide + proiezione su normale → angolo fra le due normali -->
+		<!-- ref1 dei DerPoint Average/BFP Normal = Drawing Polygon (idx 111-114) -->
+		<!-- 3D Angle 180: angolo fra due linee in 3D (0-180°), ref1-ref2 = linea 1, ref3-ref4 = linea 2 -->
+		<element type="Variable" idx="88">
+			<name>Angolo_piano_molare_t0</name>
+			<type>3D Angle 180</type>
+			<typeParams aux1="0" ref1="117" ref2="119" ref3="118" ref4="120"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="1"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="°" style="1"/>
+		</element>
+		<element type="Variable" idx="89">
+			<name>Angolo_piano_molare_t1</name>
+			<type>3D Angle 180</type>
+			<typeParams aux1="0" ref1="121" ref2="123" ref3="122" ref4="124"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="1"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="°" style="1"/>
+		</element>
+		<element type="Variable" idx="90">
+			<name>Angolo_piano_molare_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="89" ref2="88"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="1"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="°" style="1"/>
+		</element>
+		<!-- 3.6 Perimetro d'arcata — segmenti t0 -->
+		<element type="Variable" idx="91">
+			<name>Seg1_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="5" ref2="15"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="92">
+			<name>Seg2_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="15" ref2="19"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="93">
+			<name>Seg3_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="19" ref2="20"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="94">
+			<name>Seg4_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="20" ref2="18"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="95">
+			<name>Seg5_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="18" ref2="11"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="96">
+			<name>Perimetro_t0_partial</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="91" ref2="92" ref3="93" ref4="94"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="97">
+			<name>Perimetro_t0</name>
+			<type>Sum</type>
+			<typeParams aux1="0" ref1="96" ref2="95"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<!-- Perimetro — segmenti t1 -->
+		<element type="Variable" idx="98">
+			<name>Seg1_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="33" ref2="43"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="99">
+			<name>Seg2_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="43" ref2="47"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="100">
+			<name>Seg3_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="47" ref2="48"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="101">
+			<name>Seg4_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="48" ref2="46"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="102">
+			<name>Seg5_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="46" ref2="39"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="103">
+			<name>Perimetro_t1_partial</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="98" ref2="99" ref3="100" ref4="101"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="104">
+			<name>Perimetro_t1</name>
+			<type>Sum</type>
+			<typeParams aux1="0" ref1="103" ref2="102"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="105">
+			<name>Perimetro_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="104" ref2="97"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<!-- 3.7 Profondità d'arco (DerPoint midpoints) -->
+		<element type="Variable" idx="106">
+			<name>Arch_depth_t0</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="57" ref2="59"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="107">
+			<name>Arch_depth_t1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="58" ref2="60"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="108">
+			<name>Arch_depth_delta</name>
+			<type>Difference</type>
+			<typeParams aux1="0" ref1="107" ref2="106"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<!-- ======================== Drawings — Landmarks (sfere blu) ======================== -->
+		<!-- marker="2" = circle/sphere in 3D; aux1="40" = dimensione piccola -->
+		<!-- show="2" = visibile in 3D; draw="1" = sempre visibile -->
+		<!-- rgb="16744192" = blu (0x00FF8000 BGR) — in realta proviamo rgb="255" = blu puro -->
+		<element type="Drawing" idx="109">
+			<name>Landmarks_t0</name>
+			<type>Markers</type>
+			<typeParams marker="2" aux1="40" morph="0"/>
+			<display show="2" draw="1"/>
+			<colour link="0" rgb="255"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28</points>
+		</element>
+		<element type="Drawing" idx="110">
+			<name>Landmarks_t1</name>
+			<type>Markers</type>
+			<typeParams marker="2" aux1="40" morph="0"/>
+			<display show="2" draw="1"/>
+			<colour link="0" rgb="255"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56</points>
+		</element>
+		<!-- ======================== Drawings — Piani molari (Polygon = triangolo chiuso) ======================== -->
+		<!-- Polygon con 3 punti (MV, DV, MP) = triangolo che rappresenta il piano occlusale del molare -->
+		<!-- rgb="16711680" = rosso (0xFF0000); transparent="1" = semitrasparente -->
+		<element type="Drawing" idx="111">
+			<name>Piano_16_t0</name>
+			<type>Polygon</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="2" draw="1"/>
+			<colour link="0" rgb="16711680"/>
+			<pen style="0" width="1"/>
+			<fill style="1" transparent="1"/>
+			<points>1 2 3</points>
+		</element>
+		<element type="Drawing" idx="112">
+			<name>Piano_26_t0</name>
+			<type>Polygon</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="2" draw="1"/>
+			<colour link="0" rgb="16711680"/>
+			<pen style="0" width="1"/>
+			<fill style="1" transparent="1"/>
+			<points>7 8 9</points>
+		</element>
+		<element type="Drawing" idx="113">
+			<name>Piano_16_t1</name>
+			<type>Polygon</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="2" draw="1"/>
+			<colour link="0" rgb="65280"/>
+			<pen style="0" width="1"/>
+			<fill style="1" transparent="1"/>
+			<points>29 30 31</points>
+		</element>
+		<element type="Drawing" idx="114">
+			<name>Piano_26_t1</name>
+			<type>Polygon</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="2" draw="1"/>
+			<colour link="0" rgb="65280"/>
+			<pen style="0" width="1"/>
+			<fill style="1" transparent="1"/>
+			<points>35 36 37</points>
+		</element>
+		<!-- ======================== DerPoints per angolo diedro (idx 117-124) ======================== -->
+		<!-- Centroidi: Average dei punti nel Polygon (Drawing) di ciascun piano -->
+		<!-- NormalPt: proiezione di un punto esterno sulla normale al piano (Best Fit Plane Normal) -->
+		<!-- La linea centroide → normalPt definisce la direzione della normale -->
+		<!-- t0: plane 16 -->
+		<element type="DerPoint" idx="117">
+			<name>centroid_16_t0</name>
+			<type>Average</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="111"/>
+		</element>
+		<element type="DerPoint" idx="119">
+			<name>normalPt_16_t0</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="111" ref2="4"/>
+		</element>
+		<!-- t0: plane 26 -->
+		<element type="DerPoint" idx="118">
+			<name>centroid_26_t0</name>
+			<type>Average</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="112"/>
+		</element>
+		<element type="DerPoint" idx="120">
+			<name>normalPt_26_t0</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="112" ref2="10"/>
+		</element>
+		<!-- t1: plane 16 -->
+		<element type="DerPoint" idx="121">
+			<name>centroid_16_t1</name>
+			<type>Average</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="113"/>
+		</element>
+		<element type="DerPoint" idx="123">
+			<name>normalPt_16_t1</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="113" ref2="32"/>
+		</element>
+		<!-- t1: plane 26 -->
+		<element type="DerPoint" idx="122">
+			<name>centroid_26_t1</name>
+			<type>Average</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="114"/>
+		</element>
+		<element type="DerPoint" idx="124">
+			<name>normalPt_26_t1</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="114" ref2="38"/>
+		</element>
+		<!-- ======================== Intersezione normali (vertice angolo diedro) ======================== -->
+		<!-- Intersection: intersezione di due rette; se non si incrociano, punto medio della minima distanza -->
+		<!-- Retta 1: centroide_16 → normalPt_16; Retta 2: centroide_26 → normalPt_26 -->
+		<element type="DerPoint" idx="125">
+			<name>vertice_angolo_t0</name>
+			<type>Intersection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="117" ref2="119" ref3="118" ref4="120"/>
+		</element>
+		<element type="DerPoint" idx="126">
+			<name>vertice_angolo_t1</name>
+			<type>Intersection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="121" ref2="123" ref3="122" ref4="124"/>
+		</element>
+		<!-- Sfere rosse sui vertici angolo -->
+		<element type="Drawing" idx="127">
+			<name>Vertici_angolo</name>
+			<type>Markers</type>
+			<typeParams marker="2" aux1="60" morph="0"/>
+			<display show="2" draw="1"/>
+			<colour link="0" rgb="16711680"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>125 126</points>
+		</element>
+		<!-- ======================== Analysis ======================== -->
+		<element type="Analysis" idx="115">
+			<name>RPE_analysis</name>
+			<variables>61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 97 104 105 106 107 108</variables>
+		</element>
+		<!-- ======================== Protocol ======================== -->
+		<element type="Protocol" idx="116">
+			<name>digitalizzazione</name>
+			<params autoAdvance="1" beep="1" errorMargin="2"/>
+			<points>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56</points>
+		</element>
+	</template>
+</patientTemplate>
