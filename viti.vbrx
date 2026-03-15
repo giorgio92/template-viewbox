@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<patientTemplate name="viti">
+	<version>4.1.0.12</version>
+	<sex>female</sex>
+	<birthDate>2024-09-30</birthDate>
+	<objectsFolder>viti_15c0fda3f2134461988a28dcae701bd6</objectsFolder>
+	<linkedObject type="Mesh">
+		<link>C:\Users\Notebook\Documents\dHAL Viewbox 4\Templates\viti\154068679_shell_occlusion_u.stl</link>
+		<name>Mesh 1</name>
+		<visible>0</visible>
+		<date>2025-03-12</date>
+		<opacity>1</opacity>
+		<color>13434879</color>
+		<gloss>0.70</gloss>
+		<faceted>0</faceted>
+		<fill>1</fill>
+		<vertexColors>0</vertexColors>
+		<textureOn>0</textureOn>
+		<textureShade>1</textureShade>
+		<grouping>1</grouping>
+		<transformMatrix>-0.999390840530396 0.0348994880914688 0 0 -0.0338628254830837 -0.969704627990723 -0.24192188680172 0 -0.00844295043498278 -0.241774514317513 0.97029572725296 0 892.465881347656 568.124877929687 128.153747558594 1</transformMatrix>
+		<clip>0 0 0 0 0 0</clip>
+	</linkedObject>
+	<linkedObject type="Mesh">
+		<link>C:\Users\Notebook\Documents\dHAL Viewbox 4\Templates\viti\clinico ant dx.stl</link>
+		<name>Mesh 2</name>
+		<visible>1</visible>
+		<date>2025-03-12</date>
+		<opacity>1</opacity>
+		<color>13434879</color>
+		<gloss>0.70</gloss>
+		<faceted>0</faceted>
+		<fill>1</fill>
+		<vertexColors>0</vertexColors>
+		<textureOn>0</textureOn>
+		<textureShade>1</textureShade>
+		<grouping>1</grouping>
+		<transformMatrix>-0.999390840530396 0.0348994880914688 0 0 -0.0338628254830837 -0.969704627990723 -0.24192188680172 0 -0.00844295043498278 -0.241774514317513 0.97029572725296 0 892.465881347656 568.124877929687 128.153747558594 1</transformMatrix>
+		<clip>0 0 0 0 0 0</clip>
+	</linkedObject>
+	<linkedObject type="Mesh">
+		<link>C:\Users\Notebook\Documents\dHAL Viewbox 4\Templates\viti\originale ant dx.stl</link>
+		<name>Mesh 3</name>
+		<visible>1</visible>
+		<date>2025-03-12</date>
+		<opacity>1</opacity>
+		<color>13434879</color>
+		<gloss>0.70</gloss>
+		<faceted>0</faceted>
+		<fill>1</fill>
+		<vertexColors>0</vertexColors>
+		<textureOn>0</textureOn>
+		<textureShade>1</textureShade>
+		<grouping>1</grouping>
+		<transformMatrix>-0.999390840530396 0.0348994880914688 0 0 -0.0338628254830837 -0.969704627990723 -0.24192188680172 0 -0.00844295043498278 -0.241774514317513 0.97029572725296 0 892.465881347656 568.124877929687 128.153747558594 1</transformMatrix>
+		<clip>0 0 0 0 0 0</clip>
+	</linkedObject>
+	<linkedObject type="Mesh">
+		<link>C:\Users\Notebook\Documents\dHAL Viewbox 4\Templates\viti\prototipo ant dx.stl</link>
+		<name>Mesh 4</name>
+		<visible>1</visible>
+		<date>2025-03-12</date>
+		<opacity>1</opacity>
+		<color>13434879</color>
+		<gloss>0.70</gloss>
+		<faceted>0</faceted>
+		<fill>1</fill>
+		<vertexColors>0</vertexColors>
+		<textureOn>0</textureOn>
+		<textureShade>1</textureShade>
+		<grouping>1</grouping>
+		<transformMatrix>-0.999390840530396 0.0348994880914688 0 0 -0.0338628254830837 -0.969704627990723 -0.24192188680172 0 -0.00844295043498278 -0.241774514317513 0.97029572725296 0 892.465881347656 568.124877929687 128.153747558594 1</transformMatrix>
+		<clip>0 0 0 0 0 0</clip>
+	</linkedObject>
+	<template name="viti">
+		<image type="icon">
+			<imageData>
+			AAABAAEAKCggAAAAAABoGgAAFgAAACgAAAAoAAAAUAAAAAEAIAAAAAAAABkAAAAAAAAAAAAAAAAAAAAA
+			AAAA////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+			//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+			//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBdXf4ANDT+ADQ0/gA0
+			NP4ANDT+ADQ0/gA0NP4ANDT+ADQ0/gA0NP4AOFb+AEtq/gBfdv4Aann+AGZ3/iqImv5juMv+g9fr/nHP
+			4v5ftMP+cMDS/obU6P5y0ev+JqbL/ketwP44lqr+GXKJ/gBRav4AQlv+ADU6/gA0NP4ANDT+ADQ0/gA0
+			NP4ANDT+ADQ0/gA0NP4AXV3+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAIR/gAVL/4ALUj+AD5R/gA2TP41ZHv+cqG3/o+/1/51q8H+dKG2/oO2z/6Mxeb+eb3l/kiX
+			wf5Ljab+KWeB/g1EYf4AKkn+ABI4/gACCf4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ADR3+ACdC/gBD
+			V/4AOEz+IFhu/luTqf5/tcv+bqC1/muds/5tq8T+dbXU/n652v6Ds8/+Y5Oo/iVYcP4EME3+AR9A/gQU
+			Qv4CBBf+AAAI/gAAAv4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAcX/gAmQf4AU2j+AEZZ/gBPZP5Chp3+frLJ/nWh
+			tv5dkKf+XZWs/m+etP6Nq77+pbvJ/oycqv5LX3T+JzZS/iYtUP4yQGv+LDBR/hwfNP4LDRf+AAAB/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gABE/4AHTz+AFBq/gBMYP4BXHH+TJOp/nyswv5FepD+S3WI/niisf5mmbT+MGaQ/hU4
+			Yf5PX3z+fIKc/qKqwv7C0+b+3vP5/tHj9v6Ppb3+PUtf/gAACf4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ABxr+ACBC/gBJ
+			Y/4ATWX+AFNs/jZ6kv5klav+WYGW/lmMnP5ij6L+cI+q/oSXtv6gr8j+t8fd/sTa5/7I5/H+zvD5/uT3
+			/v7j8v3+jaO0/jVNZf4AECX+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AA4i/gApTP4ASWT+AEZi/gZTbf4tc4n+V4ue/meJ
+			nP5wlqr+gp2z/qO1yf7D1OP+0Of0/tXt/P7R8Pz+0PH8/tTw/P7b6/f+xd3r/neVpv4rSmL+ABYt/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAF/gARKP4AL1L+AEtn/gA/W/4IU2r+OXqN/muYqv56nbD+hqe9/qW70f7A1+b+yenz/r3j
+			7/7D4vD+v+Dw/sHc7v7E1+n+w9Hi/qK+0P5wkqT+MVRq/gAYL/4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gECEv4EFzX+BDVX/gFP
+			af4AQVv+CFRo/laJm/6btsj+lbfN/pS4zv6qx9z+psvd/pbE1f6Pucz+oLvP/qfA1P6nus/+oq/G/qGr
+			w/6Uprz+hqCz/k1uhP4IJT7+AgIH/gAAAf4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4LECv+GTdZ/h1bdv4MaHz+AGuB/id1iv5xmaz+qbbL/qet
+			yf6Eja7+i4yl/niHmv5igZT+a4Wd/n2Gm/6QjKH+nZaq/p+bsf6Rka/+panH/qSwyP54jqb+Nk9s/hES
+			Lv4CAgj+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			CP4AADT+Ch9c/iJLeP4laIP+B2yC/gBxif44fJX+dZet/pupvv6Zobr+dIms/lp0k/5YcIn+aHeN/oOE
+			m/6Vkqf+g4mh/nB1i/5eYXj+S1l9/mZtlP6DgqL+dXuY/kpXeP4nJ07+BgYO/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gACD/4ACzb+ACFt/hxHgP5Kc5b+XY2i/kGJ
+			nf4kgJf+VImg/nyZrv6Vo7j+m6K5/n2Tsv5Yepn+Um+L/mNziv58fJP+i4+k/nmHof5xfJX+d3qQ/oGJ
+			pP6ZnLf+qqjB/qKiuP5/gZz+Pz9u/gsLE/4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAACv4ABy7+Ax5m/hVLkP5Ecpv+e5y0/pm2xv6Ir8D+UI+j/nylt/6QrcD+mK7D/qOy
+			xv6Horr+WJGq/kZ+mP5RdI/+bn6Z/oWaq/56kKf+ipix/qyxxv7Dxdj+ztPi/sjO4P66v87+lJar/js/
+			bf4KCxP+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAv4AAif+BBNY/hU5
+			gP5KapT+eo+z/p2x0P6vx9/+qMbU/nOaqv6lxtX+psve/pe/1P6dwNT+fq28/kCouP4pjqb+Pnud/m6Q
+			s/6Yu8r+iKS1/p6yyP7F0uj+v8zh/rrL3v6ousz+jZ+x/l9wh/4VHkD+AwUN/gAAAf4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AABH+AxNP/iM8gP5ecYr+gIma/pmfyv6SqOD+gKXV/nyf
+			t/6ctsP+nbrJ/n2sv/5jnLL+ZpWn/mqZq/5LlKX+P4Ga/lJ7mf6AmbD+ibDN/nWeuv6Xssj+x9Ll/r7M
+			4f69zd7+iZmn/kFecP4ILEb+AQIm/gAAF/4AAAf+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAQ1/hgtb/5DX5L+coCX/n+Dov6Tp8r+gqLG/mWIqv5YdpH+j52u/naNnP5hipv+Y5Op/n+k
+			uP6TrcH+o7zP/qvC1v6juc3+gJyx/jJipf5IfKf+nLzO/tPb5/6Nmbn+lZiy/mR6kv48Xn7+MVF3/jxS
+			Zv4KDyf+AAAJ/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAH+AAAG/hAaUv4uR37+T2uR/mx6
+			mv6BjLX+nLTN/pu1yP6Cmq/+YH2S/nuLn/5wgpT+fJSm/pqyxv65zN/+usne/tHZ7f7b5Pb+y9vq/piw
+			wP4pVJX+PG2i/pS4zf690N7+Rl6a/ldZmP5BVI7+NFaR/kJmmv5mf5D+Ehwz/gACC/4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAE/gIDGv4oOGn+P1uE/lNvkf5tgKf+kqbM/qzA1P65ydf+rr7N/oul
+			tf6GnLD+hpyw/pquwf65xtj+0Nnr/s/Y7/7c5fn+3en7/s3e7v6ovs3+Yn6j/m2Pt/6oxtr+s8vd/jBS
+			m/4yQpj+MkaV/i9Rmf49Y57+cICW/hQfNP4ABAv+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gED
+			C/4MEjz+O1B8/klljP5deZ/+iKLJ/rDF2f61xtn+u8vc/sDR4f6/0uP+utHj/qvN3/6VvtD+i6/B/p6v
+			xf7M0+r+2eL2/sja6/6pw9f+jqrF/p+wvf7F093+5+/1/tni7v57k8H+RGOp/jpgn/42XZX+OliK/l1l
+			gf4RFyj+AAIH/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAv4ICxT+LEFU/kFRef5MWYj+ZXSd/o6l
+			v/6pt8r+sL7S/rjF1v67ydn+uMze/rvZ6v7P5ff+vNrp/pS+zv6AqLv+y9zy/rzL3/5njKL+IFh8/i9k
+			ov4yapP+ZIel/rG90/7m5Pb+xcnd/kdjqf4vWpb+OmGM/lBjhf5oZYD+EhIY/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAb+Cw8h/kFXav5WaH/+bHaR/oSOp/6crr/+obHH/rDC2v65yuH+vs7h/sDS
+			4v7E2+3+1eb2/sXd7P6jxNT+kbDB/uPs9v6hr7/+S3uQ/iBpjv43eLj+N22o/ilblv5lfqn+vbjM/s7J
+			0/5tc6j+TGCb/mF9qP5/lKr+Xltv/hAQFP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAI/g0R
+			J/5KYnb+Z3qK/n2LnP6Snq/+orLC/qe5zf6xx9/+uMvl/r3O5P7D1OX+ytvs/svb7P7G2uv+ssvc/pqy
+			xf7f3en+mKOz/leFmP5DiaT+W5W//jtvpf40YZT+eIuu/svE0/7QytT+jo2v/n2Js/6Opcb+kqO2/kM/
+			Tv4MCw7+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAACf4PEyr+UGl9/nGDlP6ElKX+k6Kz/qKw
+			w/6zxdT+tMjf/rTH4f64yeH+wNHj/sXT5P66zN/+wNPm/rvO4v6bscX+vrzS/qyxwv6AnrD+ZZmr/nOm
+			uP41b5X+WHuX/q+3x/7v6PH+zcnZ/oaPqf6as8r+rMXa/o+brv40MD3+CQgK/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAr+EhYu/l1whP54hpr+i5ep/pajtv6frsH+ucXW/rPE3P6xwdv+tcXb/rzL
+			3f6ywtX+rMDT/rjJ3P68y97+o7fL/paiuf7Y0+b+urzQ/nmVqf5up7f+PICX/miJnf66ws3+7u70/r2+
+			1P5IZ4f+hLHF/qjK2f6IkaT+R0JS/g0MD/4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAH/hEU
+			KP5eb4L+e4qa/pGgsv6drL/+oq7B/q64zv6xvtX+sb7W/rC/1v6vv9b+qbvP/rLB1P6+ytz+ytbo/s3c
+			8P6eqcD+vcHa/tDS6/7HzuL+prnJ/pKwwf6yxdX+1OHt/tro8/6vv9D+c4KW/m6GmP5+j6P+dXWK/hwX
+			J/4FBAb+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAABP4PER/+U191/nyLm/6Xpbb+pLDF/qu1
+			y/6uts7+sr3Q/rS+1P6xutT+q7PO/q20zf68xdn+yNDi/tLY7P7Z3/b+wsXe/sfN5P7K1ev+xtXq/sDN
+			4/7G1en+ztnr/svU5/68x9r+orTI/ouarf52ipz+XGyC/jc7Uv4HBQr+AQEB/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAH+Cw0W/j1HYf5zgZT+lKK0/qSwxv6tt83+sbjO/re90P63u9H+s7XO/rCx
+			yv63t9H+w8bc/snO4/7P1On+2Nvy/tfW7v7R1Or+yNLn/sLP5f7EzuX+xc/m/sDF3P6zts/+oarC/pCk
+			uP6FlKj+a3iQ/j9HYf4QEyf+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gYI
+			Dv4iMEz+Xm6D/oSVqf6aqL7+p7TI/q+3yv62uc7+tbXM/rOxyP6zscb+vrzU/sPC2/7Dx93+x83h/tHV
+			6/7Y2O3+1dTr/tDR6f7KzuX+wMng/rG80/6prcj+oaO//pWdtv6GmKr+dYKY/lpee/4uLEf+BAIP/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4ABQr+Bx88/j9Ybf5ofZD+h5et/put
+			wv6eq8L+pa3F/quuxf6trcL+rKu+/ra2zP66utT+vr7X/sTD2v7Kyt/+0tLn/tjW7v7a2PL+19ny/svY
+			7v69zd/+tMDW/qyyy/6go7z+k5mv/nyInv5eYXz+LCs9/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAG/gEFJ/4nO1j+S153/mh1jv58h6P+j5y1/pWju/6apLv+nqK4/qKh
+			tf6np7z+ra3H/rS0y/64uMz+u7rP/sfH3f7Q0en+1dbu/tPW7v7H0Of+vcLa/rS30f6xssv+sLDG/qOo
+			vv6FiKX+Q0Ji/hIRI/4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			Av4AAA3+DBk5/i09Xf5OXXf+ZG6I/m18lP5zgZz+f4yn/omRrf6Ojqn+k5Op/qGguv6sq8X+srLK/rOz
+			yv66utD+wcHY/sTF3P7Cwtn+trfQ/qytxv6qqsL+q6rB/qiovv6cnbX+ZmaI/iYlOv4FBAv+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAFGv4RHDz+LDtb/klX
+			cv5aZ3/+W2iD/mRzj/5xf5z+f4ai/n6Amf6NjKf+m5q1/qOjvf6mpr7+qam//qysw/6trMT+qqnA/qOg
+			uv6hn7f+oqC3/qCetP6Skqr+dXWT/jU0T/4ODhf+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAT+AAMZ/gwXOP4nOFn+SVRy/k5adf5RYHr+XGyH/nB9
+			l/5rdI7+dXiT/oCCnP6LjKf+kJGs/pKTrf6Tk67+kpOt/pKUrf6Ula3+mJev/pSUqv6Ghp3+aWqE/jk5
+			WP4JCRb+AAAD/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAA7+AgUw/hcoUv44SGr+RlJw/kxVcv5TX3z+Xm+K/mFqhf5la4f+bXOP/nZ7
+			mf56fJz+eH2Z/nmCnP6Bi6P+iJOq/oKLpP5tc43+TE5v/iQkRv4AAA7+AAAB/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAC/gAB
+			Cf4EBxX+Cg4w/hwfR/4uMFb+OTtd/kNMbf5OVnT+U1h2/ldZef5dYH/+aWyK/mhvjP5nbYz+ZmqL/l9j
+			hf5DSGz+IiRO/g8QLf4GBg/+AAAC/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAD/gAADf4HBxf+Dw8i/hQT
+			L/4cHj/+JShM/istUf4vL1T+MTJV/jQ0Wf40NFn+MTFU/issSv4hIj3+FBUm/gYHGP4AAAv+AAAB/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAA/4AAAz+BAMW/ggIH/4MDCP+Dg4l/g4O
+			Jf4MCyP+DAoj/goIHv4FBRb+AAAM/gAAAf4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8AXV3+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAz
+			M/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAz
+			M/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+AF1d/gD+
+			/v4A////AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9
+			/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9
+			/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/v7+AAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAA
+			</imageData>
+		</image>
+		<element type="DigPoint" idx="1">
+			<name>16MP</name>
+			<coords x="257.651306152344" y="-93.1186828613281" z="32.2728843688965"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="2">
+			<name>11INC</name>
+			<coords x="48.1015357971191" y="237.759567260742" z="58.0522804260254"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="3">
+			<name>26MP</name>
+			<coords x="-214.233551025391" y="-113.472290039062" z="14.8745250701904"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="4">
+			<name>clinico_point</name>
+			<coords x="94.9472045898438" y="16.4350643157959" z="275.575225830078"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="5">
+			<name>originale_point</name>
+			<coords x="64.161491394043" y="27.9069194793701" z="292.769744873047"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="6">
+			<name>prototipo_point</name>
+			<coords x="92.9438400268555" y="16.2374839782715" z="275.455261230469"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigSnake" idx="7">
+			<name>clinico_ing</name>
+			<relocateType>None</relocateType>
+			<params hotZone="50" transition="0" bias="0" closed="1" d3="1"/>
+			<coords>72.9579391479492 -24.2252025604248 172.624237060547 69.1901226660308 -18.2881460175859 171.253453463517 62.5271924278127 -16.0673500273008 172.233842503791 56.6284384521147 -18.900500547162 175.075448686367 55.0892106487899 -25.2037371201271 178.10582860332 58.7109662440428 -31.1623803412431 179.527172400963 65.4711707803282 -33.2260557948471 178.454394955156 71.3814131663781 -30.5601790583327 175.678337494043</coords>
+		</element>
+		<element type="DigSnake" idx="8">
+			<name>originale_ing</name>
+			<relocateType>None</relocateType>
+			<params hotZone="50" transition="0" bias="0" closed="1" d3="1"/>
+			<coords>68.1110763549805 -20.1748332977295 188.271911621094 65.8516516492225 -13.9090199084974 185.578969209561 59.495024223979 -10.7737485038293 184.490150931573 52.6847466975928 -12.6481544598573 185.646407276769 49.5544594979193 -18.4792883284869 188.409622729266 51.8177167660746 -24.7316605323035 191.098109353533 58.1410159990943 -28.0080465192958 192.259906616633 64.7282515952506 -25.9289153811346 191.011087731073</coords>
+		</element>
+		<element type="DigSnake" idx="9">
+			<name>prototipo_ing</name>
+			<relocateType>None</relocateType>
+			<params hotZone="50" transition="0" bias="0" closed="1" d3="1"/>
+			<coords>61.0388374328613 -16.4014053344727 171.558700561523 55.5121578448575 -19.7523397905449 174.42314953511 54.2839453567384 -26.0773039862494 177.298481887278 58.3109298095525 -31.7722920489272 178.457850074442 65.0203856642969 -33.6842504124625 177.357719062937 70.5323956532585 -30.3431897896708 174.488078014948 71.8391886267826 -24.0066679983434 171.586493509536 67.7591275103008 -18.5001190753802 170.521310544278</coords>
+		</element>
+		<element type="DerPoint" idx="10">
+			<name>clinico_ing_1</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="7"/>
+		</element>
+		<element type="DerPoint" idx="11">
+			<name>clinico_ing_2</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="250" aux2="0" aux3="0" ref1="7" ref2="10" ref3="10"/>
+		</element>
+		<element type="DerPoint" idx="12">
+			<name>clinico_ing_3</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="500" aux2="0" aux3="0" ref1="7" ref2="10"/>
+		</element>
+		<element type="DerPoint" idx="13">
+			<name>clinico_ing_4</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="750" aux2="0" aux3="0" ref1="7" ref2="10"/>
+		</element>
+		<element type="DerPoint" idx="14">
+			<name>clinico_ing_center</name>
+			<type>Intersection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="10" ref2="12" ref3="11" ref4="13"/>
+		</element>
+		<element type="DerPoint" idx="15">
+			<name>clinico_dir</name>
+			<type>Extension</type>
+			<typeParams aux1="50" aux2="0" aux3="0" ref1="14" ref2="23" ref3="14"/>
+		</element>
+		<element type="DerPoint" idx="16">
+			<name>clinico_point_proj_originale_dir</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="4" ref2="21" ref3="22"/>
+		</element>
+		<element type="DerPoint" idx="17">
+			<name>originale_ing_1</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="8"/>
+		</element>
+		<element type="DerPoint" idx="18">
+			<name>originale_ing_2</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="250" aux2="0" aux3="0" ref1="8" ref2="17"/>
+		</element>
+		<element type="DerPoint" idx="19">
+			<name>originale_ing_3</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="500" aux2="0" aux3="0" ref1="8" ref2="17"/>
+		</element>
+		<element type="DerPoint" idx="20">
+			<name>originale_ing_4</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="750" aux2="0" aux3="0" ref1="8" ref2="17"/>
+		</element>
+		<element type="DerPoint" idx="21">
+			<name>originale_ing_center</name>
+			<type>Intersection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="17" ref2="19" ref3="18" ref4="20"/>
+		</element>
+		<element type="DerPoint" idx="22">
+			<name>originale_dir</name>
+			<type>Extension</type>
+			<typeParams aux1="50" aux2="0" aux3="0" ref1="21" ref2="32" ref3="21"/>
+		</element>
+		<element type="DerPoint" idx="23">
+			<name>clinico_point_proj_clinico_dir</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="37" ref2="4"/>
+		</element>
+		<element type="DerPoint" idx="24">
+			<name>originale_point_proj_originale_dir</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="5" ref2="21" ref3="22"/>
+		</element>
+		<element type="DerPoint" idx="25">
+			<name>clinico_ing_centro_proj_originale_dir</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="14" ref2="21" ref3="22"/>
+		</element>
+		<element type="DerPoint" idx="26">
+			<name>prototipo_ing_1</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="9"/>
+		</element>
+		<element type="DerPoint" idx="27">
+			<name>prototipo_ing_2</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="250" aux2="0" aux3="0" ref1="9" ref2="26"/>
+		</element>
+		<element type="DerPoint" idx="28">
+			<name>prototipo_ing_3</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="500" aux2="0" aux3="0" ref1="9" ref2="26"/>
+		</element>
+		<element type="DerPoint" idx="29">
+			<name>prototipo_ing_4</name>
+			<type>Walk (%)</type>
+			<typeParams aux1="750" aux2="0" aux3="0" ref1="9" ref2="26"/>
+		</element>
+		<element type="DerPoint" idx="30">
+			<name>prototipo_ing_center</name>
+			<type>Intersection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="26" ref2="28" ref3="27" ref4="29"/>
+		</element>
+		<element type="DerPoint" idx="31">
+			<name>prototipo_dir</name>
+			<type>Extension</type>
+			<typeParams aux1="50" aux2="0" aux3="0" ref1="30" ref2="33" ref3="30"/>
+		</element>
+		<element type="DerPoint" idx="32">
+			<name>originale_point_prog_originale_dir</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="38" ref2="5"/>
+		</element>
+		<element type="DerPoint" idx="33">
+			<name>prototipo_point_proj_prototipo_dir</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="39" ref2="6"/>
+		</element>
+		<element type="DerPoint" idx="34">
+			<name>prototipo_point_proj_orginal_dir</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="6" ref2="21" ref3="22"/>
+		</element>
+		<element type="DerPoint" idx="35">
+			<name>prototipo_ing_center_proj_original_dir</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="30" ref2="21" ref3="22"/>
+		</element>
+		<element type="Drawing" idx="36">
+			<name>occlusal plane</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>2 1 3</points>
+		</element>
+		<element type="Drawing" idx="37">
+			<name>clinico_ing_plane</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>10 11 12 13 14</points>
+		</element>
+		<element type="Drawing" idx="38">
+			<name>original_ing_plane</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>17 18 19 20 21</points>
+		</element>
+		<element type="Drawing" idx="39">
+			<name>prototipo_ing_plane</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>26 27 28 29 30</points>
+		</element>
+		<element type="Variable" idx="40">
+			<name>clinico_originale_angle</name>
+			<type>3D Angle 90</type>
+			<typeParams aux1="0" ref1="14" ref2="15" ref3="21" ref4="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="41">
+			<name>clinico_originale_tip_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="23" ref2="24"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="42">
+			<name>clinico_originale_ing_center_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="14" ref2="21"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="43">
+			<name>clinico_originale_proj_tip_distance</name>
+			<type>Distance3</type>
+			<typeParams aux1="0" ref1="16" ref2="24" ref3="21" ref4="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="44">
+			<name>clinic_originale_ing_center_proj_distance</name>
+			<type>Distance3</type>
+			<typeParams aux1="0" ref1="21" ref2="25" ref3="21" ref4="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="45">
+			<name>clinic_originale_ing_center_perp_distance</name>
+			<type>Distance4</type>
+			<typeParams aux1="0" ref1="14" ref2="21" ref3="21" ref4="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="46">
+			<name>prototipo_originale_tip_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="33" ref2="24"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="47">
+			<name>prototipo_originale_proj_tip_distance</name>
+			<type>Distance3</type>
+			<typeParams aux1="0" ref1="34" ref2="24" ref3="21" ref4="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="48">
+			<name>prototipo_originale_ing_center_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="30" ref2="21"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="49">
+			<name>prototipo_originale_angle</name>
+			<type>3D Angle 90</type>
+			<typeParams aux1="0" ref1="30" ref2="31" ref3="21" ref4="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="50">
+			<name>prototipo_originale_ing_center_proj_distance</name>
+			<type>Distance3</type>
+			<typeParams aux1="0" ref1="21" ref2="35" ref3="21" ref4="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="51">
+			<name>prototipo_originale_ing_center_perp_distance</name>
+			<type>Distance4</type>
+			<typeParams aux1="0" ref1="30" ref2="21" ref3="21" ref4="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Analysis" idx="52">
+			<name>full</name>
+			<variables>46 47 50 51 48 49 41 43 42 40 44 45</variables>
+		</element>
+		<element type="Protocol" idx="53">
+			<name>protocol_fixed</name>
+			<params autoAdvance="1" beep="1" errorMargin="2"/>
+			<points>1 2 3 4 5 6 9 8 7</points>
+		</element>
+	</template>
+</patientTemplate>

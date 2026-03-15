@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<patientTemplate name="model_Analysis_OLG">
+	<version>4.1.0.12</version>
+	<sex>female</sex>
+	<birthDate>2023-09-11</birthDate>
+	<objectsFolder>model_Analysis_OLG_2d592a9e0d634b6089fce798870b8bb3</objectsFolder>
+	<linkedObject type="Mesh">
+		<link>C:\Users\Notebook\Documents\dHAL Viewbox 4\Templates\model_Analysis_OLG_2d592a9e0d634b6089fce798870b8bb3\Obj001_afa74d04.obj</link>
+		<name>Mesh 1</name>
+		<visible>1</visible>
+		<date>2023-09-11</date>
+		<opacity>1</opacity>
+		<color>13434879</color>
+		<gloss>0.70</gloss>
+		<faceted>0</faceted>
+		<fill>1</fill>
+		<vertexColors>0</vertexColors>
+		<textureOn>0</textureOn>
+		<textureShade>1</textureShade>
+		<grouping>1</grouping>
+		<transformMatrix>-0.999238610267639 0.0210042782127857 0.0328785441815853 0 -0.0174418389797211 -0.994306743144989 0.10511826723814 0 0.034899290651083 0.104464776813984 0.993916094303131 0 2.94000005722046 -1.78999996185303 10.8900003433228 1</transformMatrix>
+		<clip>0 0 0 0 0 0</clip>
+	</linkedObject>
+	<linkedObject type="Mesh">
+		<link>C:\Users\Notebook\Documents\dHAL Viewbox 4\Templates\model_Analysis_OLG_2d592a9e0d634b6089fce798870b8bb3\Obj002_7ecdc659.obj</link>
+		<name>Mesh 2</name>
+		<visible>0</visible>
+		<date>2023-09-11</date>
+		<opacity>1</opacity>
+		<color>13434879</color>
+		<gloss>0.00</gloss>
+		<faceted>0</faceted>
+		<fill>1</fill>
+		<vertexColors>0</vertexColors>
+		<textureOn>0</textureOn>
+		<textureShade>1</textureShade>
+		<grouping>1</grouping>
+		<transformMatrix>-0.999238610267639 0.0210042782127857 0.0328785441815853 0 -0.0174418389797211 -0.994306743144989 0.10511826723814 0 0.034899290651083 0.104464776813984 0.993916094303131 0 2.94000005722046 -1.78999996185303 10.8900003433228 1</transformMatrix>
+		<clip>0 0 0 0 0 0</clip>
+	</linkedObject>
+	<template name="model_Analysis_OLG">
+		<image type="icon">
+			<imageData>
+			AAABAAEAKCggAAAAAABoGgAAFgAAACgAAAAoAAAAUAAAAAEAIAAAAAAAABkAAAAAAAAAAAAAAAAAAAAA
+			AAAA////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+			//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+			//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBdXf4ANDT+ADQ0/gA0
+			NP4ANDT+ADQ0/gA0NP4ANDT+ADQ0/gA0NP4AOFb+AEtq/gBfdv4Aann+AGZ3/iqImv5juMv+g9fr/nHP
+			4v5ftMP+cMDS/obU6P5y0ev+JqbL/ketwP44lqr+GXKJ/gBRav4AQlv+ADU6/gA0NP4ANDT+ADQ0/gA0
+			NP4ANDT+ADQ0/gA0NP4AXV3+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAIR/gAVL/4ALUj+AD5R/gA2TP41ZHv+cqG3/o+/1/51q8H+dKG2/oO2z/6Mxeb+eb3l/kiX
+			wf5Ljab+KWeB/g1EYf4AKkn+ABI4/gACCf4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ADR3+ACdC/gBD
+			V/4AOEz+IFhu/luTqf5/tcv+bqC1/muds/5tq8T+dbXU/n652v6Ds8/+Y5Oo/iVYcP4EME3+AR9A/gQU
+			Qv4CBBf+AAAI/gAAAv4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAcX/gAmQf4AU2j+AEZZ/gBPZP5Chp3+frLJ/nWh
+			tv5dkKf+XZWs/m+etP6Nq77+pbvJ/oycqv5LX3T+JzZS/iYtUP4yQGv+LDBR/hwfNP4LDRf+AAAB/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gABE/4AHTz+AFBq/gBMYP4BXHH+TJOp/nyswv5FepD+S3WI/niisf5mmbT+MGaQ/hU4
+			Yf5PX3z+fIKc/qKqwv7C0+b+3vP5/tHj9v6Ppb3+PUtf/gAACf4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ABxr+ACBC/gBJ
+			Y/4ATWX+AFNs/jZ6kv5klav+WYGW/lmMnP5ij6L+cI+q/oSXtv6gr8j+t8fd/sTa5/7I5/H+zvD5/uT3
+			/v7j8v3+jaO0/jVNZf4AECX+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AA4i/gApTP4ASWT+AEZi/gZTbf4tc4n+V4ue/meJ
+			nP5wlqr+gp2z/qO1yf7D1OP+0Of0/tXt/P7R8Pz+0PH8/tTw/P7b6/f+xd3r/neVpv4rSmL+ABYt/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAF/gARKP4AL1L+AEtn/gA/W/4IU2r+OXqN/muYqv56nbD+hqe9/qW70f7A1+b+yenz/r3j
+			7/7D4vD+v+Dw/sHc7v7E1+n+w9Hi/qK+0P5wkqT+MVRq/gAYL/4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gECEv4EFzX+BDVX/gFP
+			af4AQVv+CFRo/laJm/6btsj+lbfN/pS4zv6qx9z+psvd/pbE1f6Pucz+oLvP/qfA1P6nus/+oq/G/qGr
+			w/6Uprz+hqCz/k1uhP4IJT7+AgIH/gAAAf4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4LECv+GTdZ/h1bdv4MaHz+AGuB/id1iv5xmaz+qbbL/qet
+			yf6Eja7+i4yl/niHmv5igZT+a4Wd/n2Gm/6QjKH+nZaq/p+bsf6Rka/+panH/qSwyP54jqb+Nk9s/hES
+			Lv4CAgj+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			CP4AADT+Ch9c/iJLeP4laIP+B2yC/gBxif44fJX+dZet/pupvv6Zobr+dIms/lp0k/5YcIn+aHeN/oOE
+			m/6Vkqf+g4mh/nB1i/5eYXj+S1l9/mZtlP6DgqL+dXuY/kpXeP4nJ07+BgYO/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gACD/4ACzb+ACFt/hxHgP5Kc5b+XY2i/kGJ
+			nf4kgJf+VImg/nyZrv6Vo7j+m6K5/n2Tsv5Yepn+Um+L/mNziv58fJP+i4+k/nmHof5xfJX+d3qQ/oGJ
+			pP6ZnLf+qqjB/qKiuP5/gZz+Pz9u/gsLE/4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAACv4ABy7+Ax5m/hVLkP5Ecpv+e5y0/pm2xv6Ir8D+UI+j/nylt/6QrcD+mK7D/qOy
+			xv6Horr+WJGq/kZ+mP5RdI/+bn6Z/oWaq/56kKf+ipix/qyxxv7Dxdj+ztPi/sjO4P66v87+lJar/js/
+			bf4KCxP+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAv4AAif+BBNY/hU5
+			gP5KapT+eo+z/p2x0P6vx9/+qMbU/nOaqv6lxtX+psve/pe/1P6dwNT+fq28/kCouP4pjqb+Pnud/m6Q
+			s/6Yu8r+iKS1/p6yyP7F0uj+v8zh/rrL3v6ousz+jZ+x/l9wh/4VHkD+AwUN/gAAAf4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AABH+AxNP/iM8gP5ecYr+gIma/pmfyv6SqOD+gKXV/nyf
+			t/6ctsP+nbrJ/n2sv/5jnLL+ZpWn/mqZq/5LlKX+P4Ga/lJ7mf6AmbD+ibDN/nWeuv6Xssj+x9Ll/r7M
+			4f69zd7+iZmn/kFecP4ILEb+AQIm/gAAF/4AAAf+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAQ1/hgtb/5DX5L+coCX/n+Dov6Tp8r+gqLG/mWIqv5YdpH+j52u/naNnP5hipv+Y5Op/n+k
+			uP6TrcH+o7zP/qvC1v6juc3+gJyx/jJipf5IfKf+nLzO/tPb5/6Nmbn+lZiy/mR6kv48Xn7+MVF3/jxS
+			Zv4KDyf+AAAJ/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAH+AAAG/hAaUv4uR37+T2uR/mx6
+			mv6BjLX+nLTN/pu1yP6Cmq/+YH2S/nuLn/5wgpT+fJSm/pqyxv65zN/+usne/tHZ7f7b5Pb+y9vq/piw
+			wP4pVJX+PG2i/pS4zf690N7+Rl6a/ldZmP5BVI7+NFaR/kJmmv5mf5D+Ehwz/gACC/4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAE/gIDGv4oOGn+P1uE/lNvkf5tgKf+kqbM/qzA1P65ydf+rr7N/oul
+			tf6GnLD+hpyw/pquwf65xtj+0Nnr/s/Y7/7c5fn+3en7/s3e7v6ovs3+Yn6j/m2Pt/6oxtr+s8vd/jBS
+			m/4yQpj+MkaV/i9Rmf49Y57+cICW/hQfNP4ABAv+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gED
+			C/4MEjz+O1B8/klljP5deZ/+iKLJ/rDF2f61xtn+u8vc/sDR4f6/0uP+utHj/qvN3/6VvtD+i6/B/p6v
+			xf7M0+r+2eL2/sja6/6pw9f+jqrF/p+wvf7F093+5+/1/tni7v57k8H+RGOp/jpgn/42XZX+OliK/l1l
+			gf4RFyj+AAIH/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAv4ICxT+LEFU/kFRef5MWYj+ZXSd/o6l
+			v/6pt8r+sL7S/rjF1v67ydn+uMze/rvZ6v7P5ff+vNrp/pS+zv6AqLv+y9zy/rzL3/5njKL+IFh8/i9k
+			ov4yapP+ZIel/rG90/7m5Pb+xcnd/kdjqf4vWpb+OmGM/lBjhf5oZYD+EhIY/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAb+Cw8h/kFXav5WaH/+bHaR/oSOp/6crr/+obHH/rDC2v65yuH+vs7h/sDS
+			4v7E2+3+1eb2/sXd7P6jxNT+kbDB/uPs9v6hr7/+S3uQ/iBpjv43eLj+N22o/ilblv5lfqn+vbjM/s7J
+			0/5tc6j+TGCb/mF9qP5/lKr+Xltv/hAQFP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAI/g0R
+			J/5KYnb+Z3qK/n2LnP6Snq/+orLC/qe5zf6xx9/+uMvl/r3O5P7D1OX+ytvs/svb7P7G2uv+ssvc/pqy
+			xf7f3en+mKOz/leFmP5DiaT+W5W//jtvpf40YZT+eIuu/svE0/7QytT+jo2v/n2Js/6Opcb+kqO2/kM/
+			Tv4MCw7+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAACf4PEyr+UGl9/nGDlP6ElKX+k6Kz/qKw
+			w/6zxdT+tMjf/rTH4f64yeH+wNHj/sXT5P66zN/+wNPm/rvO4v6bscX+vrzS/qyxwv6AnrD+ZZmr/nOm
+			uP41b5X+WHuX/q+3x/7v6PH+zcnZ/oaPqf6as8r+rMXa/o+brv40MD3+CQgK/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAr+EhYu/l1whP54hpr+i5ep/pajtv6frsH+ucXW/rPE3P6xwdv+tcXb/rzL
+			3f6ywtX+rMDT/rjJ3P68y97+o7fL/paiuf7Y0+b+urzQ/nmVqf5up7f+PICX/miJnf66ws3+7u70/r2+
+			1P5IZ4f+hLHF/qjK2f6IkaT+R0JS/g0MD/4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAH/hEU
+			KP5eb4L+e4qa/pGgsv6drL/+oq7B/q64zv6xvtX+sb7W/rC/1v6vv9b+qbvP/rLB1P6+ytz+ytbo/s3c
+			8P6eqcD+vcHa/tDS6/7HzuL+prnJ/pKwwf6yxdX+1OHt/tro8/6vv9D+c4KW/m6GmP5+j6P+dXWK/hwX
+			J/4FBAb+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAABP4PER/+U191/nyLm/6Xpbb+pLDF/qu1
+			y/6uts7+sr3Q/rS+1P6xutT+q7PO/q20zf68xdn+yNDi/tLY7P7Z3/b+wsXe/sfN5P7K1ev+xtXq/sDN
+			4/7G1en+ztnr/svU5/68x9r+orTI/ouarf52ipz+XGyC/jc7Uv4HBQr+AQEB/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAH+Cw0W/j1HYf5zgZT+lKK0/qSwxv6tt83+sbjO/re90P63u9H+s7XO/rCx
+			yv63t9H+w8bc/snO4/7P1On+2Nvy/tfW7v7R1Or+yNLn/sLP5f7EzuX+xc/m/sDF3P6zts/+oarC/pCk
+			uP6FlKj+a3iQ/j9HYf4QEyf+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gYI
+			Dv4iMEz+Xm6D/oSVqf6aqL7+p7TI/q+3yv62uc7+tbXM/rOxyP6zscb+vrzU/sPC2/7Dx93+x83h/tHV
+			6/7Y2O3+1dTr/tDR6f7KzuX+wMng/rG80/6prcj+oaO//pWdtv6GmKr+dYKY/lpee/4uLEf+BAIP/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4ABQr+Bx88/j9Ybf5ofZD+h5et/put
+			wv6eq8L+pa3F/quuxf6trcL+rKu+/ra2zP66utT+vr7X/sTD2v7Kyt/+0tLn/tjW7v7a2PL+19ny/svY
+			7v69zd/+tMDW/qyyy/6go7z+k5mv/nyInv5eYXz+LCs9/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAG/gEFJ/4nO1j+S153/mh1jv58h6P+j5y1/pWju/6apLv+nqK4/qKh
+			tf6np7z+ra3H/rS0y/64uMz+u7rP/sfH3f7Q0en+1dbu/tPW7v7H0Of+vcLa/rS30f6xssv+sLDG/qOo
+			vv6FiKX+Q0Ji/hIRI/4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			Av4AAA3+DBk5/i09Xf5OXXf+ZG6I/m18lP5zgZz+f4yn/omRrf6Ojqn+k5Op/qGguv6sq8X+srLK/rOz
+			yv66utD+wcHY/sTF3P7Cwtn+trfQ/qytxv6qqsL+q6rB/qiovv6cnbX+ZmaI/iYlOv4FBAv+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAFGv4RHDz+LDtb/klX
+			cv5aZ3/+W2iD/mRzj/5xf5z+f4ai/n6Amf6NjKf+m5q1/qOjvf6mpr7+qam//qysw/6trMT+qqnA/qOg
+			uv6hn7f+oqC3/qCetP6Skqr+dXWT/jU0T/4ODhf+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAT+AAMZ/gwXOP4nOFn+SVRy/k5adf5RYHr+XGyH/nB9
+			l/5rdI7+dXiT/oCCnP6LjKf+kJGs/pKTrf6Tk67+kpOt/pKUrf6Ula3+mJev/pSUqv6Ghp3+aWqE/jk5
+			WP4JCRb+AAAD/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAA7+AgUw/hcoUv44SGr+RlJw/kxVcv5TX3z+Xm+K/mFqhf5la4f+bXOP/nZ7
+			mf56fJz+eH2Z/nmCnP6Bi6P+iJOq/oKLpP5tc43+TE5v/iQkRv4AAA7+AAAB/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAC/gAB
+			Cf4EBxX+Cg4w/hwfR/4uMFb+OTtd/kNMbf5OVnT+U1h2/ldZef5dYH/+aWyK/mhvjP5nbYz+ZmqL/l9j
+			hf5DSGz+IiRO/g8QLf4GBg/+AAAC/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAD/gAADf4HBxf+Dw8i/hQT
+			L/4cHj/+JShM/istUf4vL1T+MTJV/jQ0Wf40NFn+MTFU/issSv4hIj3+FBUm/gYHGP4AAAv+AAAB/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAA/4AAAz+BAMW/ggIH/4MDCP+Dg4l/g4O
+			Jf4MCyP+DAoj/goIHv4FBRb+AAAM/gAAAf4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8AXV3+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAz
+			M/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAz
+			M/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+AF1d/gD+
+			/v4A////AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9
+			/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9
+			/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/v7+AAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAA
+			</imageData>
+		</image>
+		<element type="DigPoint" idx="1">
+			<name>d17</name>
+			<coords x="261.578674316406" y="9.40061283111572" z="58.2278289794922"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="2">
+			<name>m17</name>
+			<coords x="255.548751831055" y="97.0117034912109" z="23.8974132537842"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="3">
+			<name>d16</name>
+			<coords x="256.673553466797" y="113.131103515625" z="25.6680946350098"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="4">
+			<name>m16</name>
+			<coords x="235.763595581055" y="204.786804199219" z="0.15427440404892"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="5">
+			<name>d15</name>
+			<coords x="233.160736083984" y="213.111587524414" z="4.93648052215576"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="6">
+			<name>m15</name>
+			<coords x="201.252151489258" y="268.467315673828" z="-0.716004192829132"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="7">
+			<name>d14</name>
+			<coords x="211.686874389648" y="279.668090820313" z="4.16755819320679"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="8">
+			<name>m14</name>
+			<coords x="175.872894287109" y="337.392303466797" z="11.6078901290894"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="9">
+			<name>d13</name>
+			<coords x="187.60710144043" y="347.907592773438" z="18.5162677764893"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="10">
+			<name>m13</name>
+			<coords x="147.082290649414" y="406.479034423828" z="21.4058170318604"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="11">
+			<name>d12</name>
+			<coords x="138.390426635742" y="406.102935791016" z="19.0725173950195"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="12">
+			<name>m12</name>
+			<coords x="89.6559677124023" y="452.457946777344" z="14.0401926040649"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="13">
+			<name>d11</name>
+			<coords x="85.6982955932617" y="450.135803222656" z="4.31569766998291"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="14">
+			<name>m11</name>
+			<coords x="-0.674328684806824" y="468.386810302734" z="-0.490696042776108"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="15">
+			<name>m21</name>
+			<coords x="-5.21841049194336" y="471.110076904297" z="-4.69574880599976"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="16">
+			<name>d21</name>
+			<coords x="-88.5928268432617" y="446.426574707031" z="-0.422338098287582"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="17">
+			<name>m22</name>
+			<coords x="-100.01106262207" y="453.703521728516" z="9.39450550079346"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="18">
+			<name>d22</name>
+			<coords x="-137.383270263672" y="403.670135498047" z="5.841064453125"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="19">
+			<name>m23</name>
+			<coords x="-154.336563110352" y="400.198669433594" z="21.7123641967773"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="20">
+			<name>d23</name>
+			<coords x="-182.528823852539" y="340.667297363281" z="8.90294742584228"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="21">
+			<name>m24</name>
+			<coords x="-174.904968261719" y="326.137084960937" z="0.255978435277939"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="22">
+			<name>d24</name>
+			<coords x="-208.647521972656" y="270.263122558594" z="-4.99536895751953"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="23">
+			<name>m25</name>
+			<coords x="-203.129989624023" y="262.216003417969" z="-11.2891836166382"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="24">
+			<name>d25</name>
+			<coords x="-232.891006469727" y="208.970901489258" z="-7.55813837051392"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="25">
+			<name>m26</name>
+			<coords x="-222.544174194336" y="192.654769897461" z="-10.8496360778809"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="26">
+			<name>d26</name>
+			<coords x="-244.403854370117" y="102.40013885498" z="16.4381790161133"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="27">
+			<name>m27</name>
+			<coords x="-242.074523925781" y="87.902961730957" z="12.0009155273437"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="28">
+			<name>d27</name>
+			<coords x="-251.625579833984" y="5.86826515197754" z="40.5361595153809"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="29">
+			<name>int15-14</name>
+			<coords x="207.126388549805" y="274.385467529297" z="2.12036514282227"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="30">
+			<name>int13-12</name>
+			<coords x="140.540374755859" y="404.476135253906" z="22.6818389892578"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="31">
+			<name>int11-21</name>
+			<coords x="-2.75645995140076" y="466.274841308594" z="-0.393717497587204"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="32">
+			<name>int22-23</name>
+			<coords x="-140.159545898438" y="394.762878417969" z="20.2785129547119"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="33">
+			<name>int24-25</name>
+			<coords x="-200.150436401367" y="264.480316162109" z="-4.63059520721436"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="34">
+			<name>16MP</name>
+			<coords x="213.910766601562" y="148.723846435547" z="-11.1373310089111"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="35">
+			<name>14P</name>
+			<coords x="163.707763671875" y="294.223510742188" z="-19.6961936950684"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="36">
+			<name>OVJ_u</name>
+			<coords x="30.2686901092529" y="469.092132568359" z="-15.0402250289917"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="37">
+			<name>OVB_u</name>
+			<coords x="44.5105628967285" y="467.427154541016" z="-15.2546491622925"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="38">
+			<name>24P</name>
+			<coords x="-148.246109008789" y="289.170776367188" z="-21.9631595611572"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="39">
+			<name>26MP</name>
+			<coords x="-206.105392456055" y="144.969604492187" z="-22.6383495330811"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="40">
+			<name>14F</name>
+			<coords x="180.809097290039" y="298.342468261719" z="-3.69577550888062"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="41">
+			<name>24F</name>
+			<coords x="-177.970001220703" y="291.614868164063" z="9.86861324310303"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="42">
+			<name>37d</name>
+			<coords x="-251.401214599609" y="7.36367273330689" z="24.0831508636475"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="43">
+			<name>37m</name>
+			<coords x="-231.406967163086" y="99.6179580688477" z="1.27074897289276"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="44">
+			<name>36d</name>
+			<coords x="-228.457382202148" y="109.312080383301" z="-5.50055885314941"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="45">
+			<name>36m</name>
+			<coords x="-196.994979858398" y="203.763763427734" z="-22.3385391235352"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="46">
+			<name>35d</name>
+			<coords x="-197.38835144043" y="211.942276000977" z="-25.0414638519287"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="47">
+			<name>35m</name>
+			<coords x="-151.324295043945" y="262.892395019531" z="-47.1924209594727"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="48">
+			<name>34d</name>
+			<coords x="-180.168762207031" y="289.364685058594" z="-39.9271774291992"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="49">
+			<name>34m</name>
+			<coords x="-133.309921264648" y="343.96044921875" z="-42.7462272644043"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="50">
+			<name>33d</name>
+			<coords x="-130.575607299805" y="351.289520263672" z="-40.704418182373"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="51">
+			<name>33m</name>
+			<coords x="-113.203910827637" y="412.961364746094" z="-46.3307113647461"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="52">
+			<name>32d</name>
+			<coords x="-105.012435913086" y="389.129150390625" z="-28.2239570617676"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="53">
+			<name>32m</name>
+			<coords x="-51.7276649475098" y="419.252624511719" z="-9.21453952789307"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="54">
+			<name>31d</name>
+			<coords x="-51.489616394043" y="419.602600097656" z="-8.70984554290771"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="55">
+			<name>31m</name>
+			<coords x="5.60927438735962" y="426.153350830078" z="-7.31952714920044"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="56">
+			<name>41m</name>
+			<coords x="7.63169050216675" y="428.673461914063" z="-5.22628021240234"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="57">
+			<name>41d</name>
+			<coords x="63.1673698425293" y="418.108428955078" z="-8.40171527862549"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="58">
+			<name>42m</name>
+			<coords x="64.6484222412109" y="420.128479003906" z="-6.53208065032959"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="59">
+			<name>42d</name>
+			<coords x="112.611030578613" y="387.802612304687" z="-18.1826877593994"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="60">
+			<name>43m</name>
+			<coords x="122.315002441406" y="394.129821777344" z="-20.2343616485596"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="61">
+			<name>43d</name>
+			<coords x="171.328247070313" y="367.489288330078" z="-33.9805145263672"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="62">
+			<name>44m</name>
+			<coords x="152.132888793945" y="344.713592529297" z="-38.2182464599609"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="63">
+			<name>44d</name>
+			<coords x="172.13444519043" y="279.5009765625" z="-31.9852657318115"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="64">
+			<name>45m</name>
+			<coords x="161.774459838867" y="266.535308837891" z="-37.5745620727539"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="65">
+			<name>45d</name>
+			<coords x="205.46501159668" y="213.981826782227" z="-27.8116302490234"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="66">
+			<name>46m</name>
+			<coords x="206.978530883789" y="204.53125" z="-29.471363067627"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="67">
+			<name>46d</name>
+			<coords x="245.413009643555" y="112.854393005371" z="-7.27906656265259"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="68">
+			<name>47m</name>
+			<coords x="231.794525146484" y="97.6803131103516" z="-17.0598545074463"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="69">
+			<name>47d</name>
+			<coords x="265.933502197266" y="10.8039789199829" z="16.4197120666504"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="70">
+			<name>int35-34</name>
+			<coords x="-171.590896606445" y="283.470062255859" z="-39.4997825622559"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="71">
+			<name>int33-32</name>
+			<coords x="-105.167823791504" y="387.670654296875" z="-49.6579551696777"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="72">
+			<name>int31-41</name>
+			<coords x="6.45269250869751" y="425.199188232422" z="-7.98392677307129"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="73">
+			<name>int42-43</name>
+			<coords x="114.792915344238" y="389.39453125" z="-23.8257160186768"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="74">
+			<name>int44-45</name>
+			<coords x="170.20719909668" y="276.363952636719" z="-35.8200759887695"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="75">
+			<name>OVJ_inf</name>
+			<coords x="31.285680770874" y="439.756103515625" z="-30.5694389343262"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="76">
+			<name>OVB_inf</name>
+			<coords x="34.3327445983887" y="426.095794677734" z="2.74997997283936"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="77">
+			<name>36F</name>
+			<coords x="-216.911026000977" y="161.316802978516" z="-18.5717735290527"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="78">
+			<name>46F</name>
+			<coords x="215.892654418945" y="154.832336425781" z="-33.8255424499512"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="79">
+			<name>origin</name>
+			<coords x="0" y="0" z="0"/>
+			<type>Preset</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="80">
+			<name>Yplane</name>
+			<coords x="0" y="1000" z="0"/>
+			<type>Preset</type>
+			<typeParams d3="1" aux1="0" aux2="1000" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="81">
+			<name>xplane</name>
+			<coords x="1000" y="0" z="0"/>
+			<type>Preset</type>
+			<typeParams d3="1" aux1="1000" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="82">
+			<name>zplane</name>
+			<coords x="0" y="0" z="1000"/>
+			<type>Preset</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="1000"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="83">
+			<name>Inc_inf_prom</name>
+			<coords x="-20.8176212310791" y="428.818969726562" z="2.57200455665588"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="84">
+			<name>13c</name>
+			<coords x="175.961883544922" y="392.096618652344" z="-10.4927597045898"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="85">
+			<name>23c</name>
+			<coords x="-178.48161315918" y="381.47216796875" z="4.33244800567627"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="86">
+			<name>33c</name>
+			<coords x="-126.120231628418" y="387.379119873047" z="-18.5913028717041"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="87">
+			<name>43c</name>
+			<coords x="150.055160522461" y="384.578765869141" z="-9.76117038726807"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="88">
+			<name>Post_Spee_3°</name>
+			<coords x="-272.460540771484" y="36.4731864929199" z="34.5414810180664"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="89">
+			<name>Post_Spee_4°</name>
+			<coords x="272.493225097656" y="34.5901260375977" z="22.4561920166016"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="90">
+			<name>SpeeInf_LowestPoint_3°</name>
+			<coords x="-173.600524902344" y="244.069564819336" z="-32.1350593566895"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="91">
+			<name>SpeeInf_LowestPoint_4°</name>
+			<coords x="188.094314575195" y="262.480285644531" z="-18.0705413818359"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DerPoint" idx="92">
+			<name>Lun_Upp_Ant</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="36" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="93">
+			<name>Midpoint14-24</name>
+			<type>Midpoint</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="35" ref2="38"/>
+		</element>
+		<element type="DerPoint" idx="94">
+			<name>Lun_Upp_pos</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="93" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="95">
+			<name>Lun_Inf_ant</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="83" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="96">
+			<name>mid_int_inf</name>
+			<type>Midpoint</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="70" ref2="74"/>
+		</element>
+		<element type="DerPoint" idx="97">
+			<name>Lun_inf_pos</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="96" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="98">
+			<name>16onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="34" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="99">
+			<name>26onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="39" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="100">
+			<name>13onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="84" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="101">
+			<name>23onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="85" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="102">
+			<name>11-21onY</name>
+			<type>Projection</type>
+			<typeParams aux1="60" aux2="0" aux3="0" ref1="31" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="103">
+			<name>36onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="77" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="104">
+			<name>46onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="78" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="105">
+			<name>33onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="86" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="106">
+			<name>43onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="87" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="107">
+			<name>31-41onY</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="72" ref2="79" ref3="80"/>
+		</element>
+		<element type="DerPoint" idx="108">
+			<name>OVJsup_extY</name>
+			<type>Extension</type>
+			<typeParams aux1="100" aux2="0" aux3="0" ref1="79" ref2="80" ref3="36"/>
+		</element>
+		<element type="DerPoint" idx="109">
+			<name>OVBax_upp_point</name>
+			<type>Extension</type>
+			<typeParams aux1="60" aux2="0" aux3="0" ref1="79" ref2="82" ref3="76"/>
+		</element>
+		<element type="DerPoint" idx="110">
+			<name>OVBupOnOvbaxline</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="37" ref2="76" ref3="109"/>
+		</element>
+		<element type="DerPoint" idx="111">
+			<name>OVJinfOnOvjuext</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="75" ref2="36" ref3="108"/>
+		</element>
+		<element type="DerPoint" idx="112">
+			<name>extSpee3°</name>
+			<type>Extension</type>
+			<typeParams aux1="100" aux2="0" aux3="0" ref1="79" ref2="81" ref3="88"/>
+		</element>
+		<element type="DerPoint" idx="113">
+			<name>extSpee4°</name>
+			<type>Extension</type>
+			<typeParams aux1="100" aux2="0" aux3="0" ref1="79" ref2="81" ref3="89"/>
+		</element>
+		<element type="DerPoint" idx="114">
+			<name>extSpeeAnt</name>
+			<type>Extension</type>
+			<typeParams aux1="100" aux2="0" aux3="0" ref1="79" ref2="81" ref3="76"/>
+		</element>
+		<element type="DerPoint" idx="115">
+			<name>OrOnSpee3°</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="79" ref2="88" ref3="112"/>
+		</element>
+		<element type="DerPoint" idx="116">
+			<name>OrOnSpee4°</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="79" ref2="89" ref3="113"/>
+		</element>
+		<element type="DerPoint" idx="117">
+			<name>OrOnSpeeAnt</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="79" ref2="76" ref3="114"/>
+		</element>
+		<element type="DerPoint" idx="118">
+			<name>extSpeeLowest_3°</name>
+			<type>Extension</type>
+			<typeParams aux1="100" aux2="0" aux3="0" ref1="79" ref2="81" ref3="90"/>
+		</element>
+		<element type="DerPoint" idx="119">
+			<name>OrtoLowestSpee_3°</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="79" ref2="90" ref3="118"/>
+		</element>
+		<element type="DerPoint" idx="120">
+			<name>OrtoLowestSpee2_3°</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="119" ref2="115" ref3="117"/>
+		</element>
+		<element type="DerPoint" idx="121">
+			<name>extLowest_Spee_4°</name>
+			<type>Extension</type>
+			<typeParams aux1="100" aux2="0" aux3="0" ref1="79" ref2="81" ref3="91"/>
+		</element>
+		<element type="DerPoint" idx="122">
+			<name>OrOnextLowest4°</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="79" ref2="91" ref3="121"/>
+		</element>
+		<element type="DerPoint" idx="123">
+			<name>OrOnPostSpee4°</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="79" ref2="89" ref3="113"/>
+		</element>
+		<element type="DerPoint" idx="124">
+			<name>Spee4° second point</name>
+			<type>Projection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="122" ref2="123" ref3="117"/>
+		</element>
+		<element type="Drawing" idx="125">
+			<name>direct</name>
+			<type>Markers</type>
+			<typeParams marker="2" aux1="7" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="255"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>40 35 34 41 38 39 54 55 52 53 50 51 48 49 46 47 44 77 45 42 43 
+			57 56 59 58 61 60 63 62 65 64 67 78 66 69 68 13 11 9 7 5 
+			3 1 16 18 20 22 24 26 28 31 30 29 32 33 72 71 70 73 74 14 
+			12 10 8 6 4 2 15 17 19 21 23 25 27 76 37 75 36</points>
+		</element>
+		<element type="Drawing" idx="126">
+			<name>derived</name>
+			<type>Markers</type>
+			<typeParams marker="2" aux1="7" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="2924595"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>102 100 98 101 99 107 105 103 106 104 95 97 92 94 110 108 111</points>
+		</element>
+		<element type="Variable" idx="127">
+			<name>17</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="1" ref2="2"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="128">
+			<name>16</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="3" ref2="4"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="129">
+			<name>15</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="5" ref2="6"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="130">
+			<name>14</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="7" ref2="8"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="131">
+			<name>13</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="9" ref2="10"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="132">
+			<name>12</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="11" ref2="12"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="133">
+			<name>11</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="13" ref2="14"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="134">
+			<name>21</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="15" ref2="16"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="135">
+			<name>22</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="17" ref2="18"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="136">
+			<name>23</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="19" ref2="20"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="137">
+			<name>24</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="21" ref2="22"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="138">
+			<name>25</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="23" ref2="24"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="139">
+			<name>26</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="25" ref2="26"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="140">
+			<name>27</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="27" ref2="28"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="141">
+			<name>37</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="42" ref2="43"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="142">
+			<name>36</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="44" ref2="45"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="143">
+			<name>35</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="46" ref2="47"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="144">
+			<name>34</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="48" ref2="49"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="145">
+			<name>33</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="50" ref2="51"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="146">
+			<name>32</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="52" ref2="53"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="147">
+			<name>31</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="54" ref2="55"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="148">
+			<name>41</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="56" ref2="57"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="149">
+			<name>42</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="59" ref2="58"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="150">
+			<name>43</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="61" ref2="60"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="151">
+			<name>44</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="63" ref2="62"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="152">
+			<name>45</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="65" ref2="64"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="153">
+			<name>46</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="67" ref2="66"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="154">
+			<name>47</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="69" ref2="68"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="155">
+			<name>Arch_Up_ 1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="3" ref2="29"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="156">
+			<name>Arch_Up_ 2</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="29" ref2="30"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="157">
+			<name>Arch_Up_ 3</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="30" ref2="31"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="158">
+			<name>Arch_Up_ 4</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="31" ref2="32"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="159">
+			<name>Arch_Up_ 5</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="32" ref2="33"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="160">
+			<name>Arch_Up_ 6</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="33" ref2="26"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="161">
+			<name>Arch_Inf_ 1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="44" ref2="70"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="162">
+			<name>Arch_Inf_ 2</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="70" ref2="71"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="163">
+			<name>Arch_Inf_ 3</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="71" ref2="72"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="164">
+			<name>Arch_Inf_ 4</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="72" ref2="73"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="165">
+			<name>Arch_Inf_ 5</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="73" ref2="74"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="166">
+			<name>Arch_Inf_ 6</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="74" ref2="67"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="167">
+			<name>OVJ</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="36" ref2="111"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="168">
+			<name>OVB</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="76" ref2="110"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="169">
+			<name>Supp1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="5" ref2="10"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="170">
+			<name>Supp2</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="24" ref2="19"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="171">
+			<name>Supp3</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="46" ref2="51"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="172">
+			<name>Supp4</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="65" ref2="60"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="173">
+			<name>SimmInt 1</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="3" ref2="40"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="174">
+			<name>SimmInt 2</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="26" ref2="41"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="175">
+			<name>SimmInt 3</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="44" ref2="70"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="176">
+			<name>SimmInt 4</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="67" ref2="74"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="177">
+			<name>SimmYPost_Upper</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="99" ref2="98"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="178">
+			<name>SimmYAnt_Upper</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="100" ref2="101"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="179">
+			<name>SimmYPost_Lower</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="103" ref2="104"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="180">
+			<name>SimmYAnt_Lower</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="105" ref2="106"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="181">
+			<name>16Xdist</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="34" ref2="98"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="182">
+			<name>26Xdist</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="39" ref2="99"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="183">
+			<name>MidUpper-to-Midline</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="31" ref2="102"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="184">
+			<name>MidLower-to-midline</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="72" ref2="107"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="185">
+			<name>Lunghezza_upper</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="92" ref2="94"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="186">
+			<name>Lunghezza_Lower</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="95" ref2="97"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="187">
+			<name>Arcata_Upper_1°Quad</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="155" ref2="156" ref3="157" ref4="207"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="188">
+			<name>Arcata_Upper_2°Quad</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="158" ref2="159" ref3="160" ref4="207"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="189">
+			<name>Arcata_Upper</name>
+			<type>Sum</type>
+			<typeParams aux1="0" ref1="187" ref2="188"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="190">
+			<name>Arcata_Lower_3°Quad</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="161" ref2="162" ref3="163" ref4="207"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="191">
+			<name>Arcata_Lower_4°Quad</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="164" ref2="165" ref3="166" ref4="207"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="192">
+			<name>Arcata_Lower</name>
+			<type>Sum</type>
+			<typeParams aux1="0" ref1="190" ref2="191"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="193">
+			<name>Upp_denti 1</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="128" ref2="129" ref3="130" ref4="131"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="194">
+			<name>Upp_denti 2</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="132" ref2="133" ref3="134" ref4="135"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="195">
+			<name>Upp_denti 3</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="136" ref2="137" ref3="138" ref4="139"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="196">
+			<name>Denti_Upper6to6</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="193" ref2="194" ref3="195" ref4="207"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="197">
+			<name>Denti_Upper_3to3</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="131" ref2="194" ref3="136" ref4="207"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="198">
+			<name>Low_denti 1</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="142" ref2="143" ref3="144" ref4="145"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="199">
+			<name>Low_denti 2</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="146" ref2="147" ref3="148" ref4="149"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="200">
+			<name>Low_denti 3</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="150" ref2="151" ref3="152" ref4="153"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="201">
+			<name>Denti_Lower_6to6</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="198" ref2="199" ref3="200" ref4="207"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="202">
+			<name>Denti_Lower_3to3</name>
+			<type>Sum4</type>
+			<typeParams aux1="0" ref1="145" ref2="199" ref3="150" ref4="207"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="203">
+			<name>Ampiezza_Upper_Ant</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="35" ref2="38"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="204">
+			<name>Ampiezza_Upper_Post</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="39" ref2="34"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="205">
+			<name>Ampiezza_Lower_Ant</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="70" ref2="74"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="206">
+			<name>Ampiezza_Lower_Post</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="77" ref2="78"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="207">
+			<name>costante</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="79" ref2="79"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="208">
+			<name>Spee3°</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="119" ref2="120"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="209">
+			<name>Spee4°</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="122" ref2="124"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Analysis" idx="210">
+			<name>Model AnalYsis</name>
+			<variables>204 203 206 205 192 189 201 202 197 196 186 185 184 183 177 179 178 180 176 175 174 
+			173 172 171 170 169 181 182 167 168 209 208</variables>
+			<graphics>126 125</graphics>
+		</element>
+		<element type="Protocol" idx="211">
+			<name>All</name>
+			<params autoAdvance="1" beep="1" errorMargin="2"/>
+			<points>82 80 81 36 75 37 76 79 27 25 23 21 19 17 15 2 4 6 8 10 12 
+			14 74 73 70 71 72 33 32 29 30 31 83 28 26 24 22 20 18 16 1 
+			3 5 7 9 11 13 68 69 66 78 67 64 65 62 63 60 61 87 58 59 
+			56 57 43 42 45 77 44 47 46 49 48 51 50 86 53 52 55 54 39 38 
+			41 85 34 35 40 84 91 90 89 88</points>
+		</element>
+	</template>
+</patientTemplate>

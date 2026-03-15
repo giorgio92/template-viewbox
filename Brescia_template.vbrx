@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<patientTemplate name="Brescia_template">
+	<version>4.1.0.12</version>
+	<sex>female</sex>
+	<birthDate>2024-08-16</birthDate>
+	<objectsFolder>Brescia_template_374e44dd37354485a565d6e7e0c49ca3</objectsFolder>
+	<linkedObject type="Mesh">
+		<link>C:\Users\Notebook\Documents\dHAL Viewbox 4\Templates\Br_tm_L.stl</link>
+		<name>Mesh 1</name>
+		<visible>1</visible>
+		<date>2024-08-16</date>
+		<opacity>1</opacity>
+		<color>13434879</color>
+		<gloss>0.70</gloss>
+		<faceted>0</faceted>
+		<fill>1</fill>
+		<vertexColors>0</vertexColors>
+		<textureOn>0</textureOn>
+		<textureShade>1</textureShade>
+		<grouping>1</grouping>
+		<transformMatrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</transformMatrix>
+		<clip>0 0 0 0 0 0</clip>
+	</linkedObject>
+	<linkedObject type="Mesh">
+		<link>C:\Users\Notebook\Documents\dHAL Viewbox 4\Templates\Br_tm_U.stl</link>
+		<name>Mesh 2</name>
+		<visible>1</visible>
+		<date>2024-08-16</date>
+		<opacity>1</opacity>
+		<color>13434879</color>
+		<gloss>0.70</gloss>
+		<faceted>0</faceted>
+		<fill>1</fill>
+		<vertexColors>0</vertexColors>
+		<textureOn>0</textureOn>
+		<textureShade>1</textureShade>
+		<grouping>1</grouping>
+		<transformMatrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</transformMatrix>
+		<clip>0 0 0 0 0 0</clip>
+	</linkedObject>
+	<template name="Brescia_template">
+		<image type="icon">
+			<imageData>
+			AAABAAEAKCggAAAAAABoGgAAFgAAACgAAAAoAAAAUAAAAAEAIAAAAAAAABkAAAAAAAAAAAAAAAAAAAAA
+			AAAA////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+			//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
+			//8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBdXf4ANDT+ADQ0/gA0
+			NP4ANDT+ADQ0/gA0NP4ANDT+ADQ0/gA0NP4AOFb+AEtq/gBfdv4Aann+AGZ3/iqImv5juMv+g9fr/nHP
+			4v5ftMP+cMDS/obU6P5y0ev+JqbL/ketwP44lqr+GXKJ/gBRav4AQlv+ADU6/gA0NP4ANDT+ADQ0/gA0
+			NP4ANDT+ADQ0/gA0NP4AXV3+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAIR/gAVL/4ALUj+AD5R/gA2TP41ZHv+cqG3/o+/1/51q8H+dKG2/oO2z/6Mxeb+eb3l/kiX
+			wf5Ljab+KWeB/g1EYf4AKkn+ABI4/gACCf4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ADR3+ACdC/gBD
+			V/4AOEz+IFhu/luTqf5/tcv+bqC1/muds/5tq8T+dbXU/n652v6Ds8/+Y5Oo/iVYcP4EME3+AR9A/gQU
+			Qv4CBBf+AAAI/gAAAv4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAcX/gAmQf4AU2j+AEZZ/gBPZP5Chp3+frLJ/nWh
+			tv5dkKf+XZWs/m+etP6Nq77+pbvJ/oycqv5LX3T+JzZS/iYtUP4yQGv+LDBR/hwfNP4LDRf+AAAB/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gABE/4AHTz+AFBq/gBMYP4BXHH+TJOp/nyswv5FepD+S3WI/niisf5mmbT+MGaQ/hU4
+			Yf5PX3z+fIKc/qKqwv7C0+b+3vP5/tHj9v6Ppb3+PUtf/gAACf4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4ABxr+ACBC/gBJ
+			Y/4ATWX+AFNs/jZ6kv5klav+WYGW/lmMnP5ij6L+cI+q/oSXtv6gr8j+t8fd/sTa5/7I5/H+zvD5/uT3
+			/v7j8v3+jaO0/jVNZf4AECX+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AA4i/gApTP4ASWT+AEZi/gZTbf4tc4n+V4ue/meJ
+			nP5wlqr+gp2z/qO1yf7D1OP+0Of0/tXt/P7R8Pz+0PH8/tTw/P7b6/f+xd3r/neVpv4rSmL+ABYt/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAF/gARKP4AL1L+AEtn/gA/W/4IU2r+OXqN/muYqv56nbD+hqe9/qW70f7A1+b+yenz/r3j
+			7/7D4vD+v+Dw/sHc7v7E1+n+w9Hi/qK+0P5wkqT+MVRq/gAYL/4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gECEv4EFzX+BDVX/gFP
+			af4AQVv+CFRo/laJm/6btsj+lbfN/pS4zv6qx9z+psvd/pbE1f6Pucz+oLvP/qfA1P6nus/+oq/G/qGr
+			w/6Uprz+hqCz/k1uhP4IJT7+AgIH/gAAAf4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4LECv+GTdZ/h1bdv4MaHz+AGuB/id1iv5xmaz+qbbL/qet
+			yf6Eja7+i4yl/niHmv5igZT+a4Wd/n2Gm/6QjKH+nZaq/p+bsf6Rka/+panH/qSwyP54jqb+Nk9s/hES
+			Lv4CAgj+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			CP4AADT+Ch9c/iJLeP4laIP+B2yC/gBxif44fJX+dZet/pupvv6Zobr+dIms/lp0k/5YcIn+aHeN/oOE
+			m/6Vkqf+g4mh/nB1i/5eYXj+S1l9/mZtlP6DgqL+dXuY/kpXeP4nJ07+BgYO/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gACD/4ACzb+ACFt/hxHgP5Kc5b+XY2i/kGJ
+			nf4kgJf+VImg/nyZrv6Vo7j+m6K5/n2Tsv5Yepn+Um+L/mNziv58fJP+i4+k/nmHof5xfJX+d3qQ/oGJ
+			pP6ZnLf+qqjB/qKiuP5/gZz+Pz9u/gsLE/4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAACv4ABy7+Ax5m/hVLkP5Ecpv+e5y0/pm2xv6Ir8D+UI+j/nylt/6QrcD+mK7D/qOy
+			xv6Horr+WJGq/kZ+mP5RdI/+bn6Z/oWaq/56kKf+ipix/qyxxv7Dxdj+ztPi/sjO4P66v87+lJar/js/
+			bf4KCxP+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAv4AAif+BBNY/hU5
+			gP5KapT+eo+z/p2x0P6vx9/+qMbU/nOaqv6lxtX+psve/pe/1P6dwNT+fq28/kCouP4pjqb+Pnud/m6Q
+			s/6Yu8r+iKS1/p6yyP7F0uj+v8zh/rrL3v6ousz+jZ+x/l9wh/4VHkD+AwUN/gAAAf4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AABH+AxNP/iM8gP5ecYr+gIma/pmfyv6SqOD+gKXV/nyf
+			t/6ctsP+nbrJ/n2sv/5jnLL+ZpWn/mqZq/5LlKX+P4Ga/lJ7mf6AmbD+ibDN/nWeuv6Xssj+x9Ll/r7M
+			4f69zd7+iZmn/kFecP4ILEb+AQIm/gAAF/4AAAf+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAQ1/hgtb/5DX5L+coCX/n+Dov6Tp8r+gqLG/mWIqv5YdpH+j52u/naNnP5hipv+Y5Op/n+k
+			uP6TrcH+o7zP/qvC1v6juc3+gJyx/jJipf5IfKf+nLzO/tPb5/6Nmbn+lZiy/mR6kv48Xn7+MVF3/jxS
+			Zv4KDyf+AAAJ/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAH+AAAG/hAaUv4uR37+T2uR/mx6
+			mv6BjLX+nLTN/pu1yP6Cmq/+YH2S/nuLn/5wgpT+fJSm/pqyxv65zN/+usne/tHZ7f7b5Pb+y9vq/piw
+			wP4pVJX+PG2i/pS4zf690N7+Rl6a/ldZmP5BVI7+NFaR/kJmmv5mf5D+Ehwz/gACC/4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAE/gIDGv4oOGn+P1uE/lNvkf5tgKf+kqbM/qzA1P65ydf+rr7N/oul
+			tf6GnLD+hpyw/pquwf65xtj+0Nnr/s/Y7/7c5fn+3en7/s3e7v6ovs3+Yn6j/m2Pt/6oxtr+s8vd/jBS
+			m/4yQpj+MkaV/i9Rmf49Y57+cICW/hQfNP4ABAv+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gED
+			C/4MEjz+O1B8/klljP5deZ/+iKLJ/rDF2f61xtn+u8vc/sDR4f6/0uP+utHj/qvN3/6VvtD+i6/B/p6v
+			xf7M0+r+2eL2/sja6/6pw9f+jqrF/p+wvf7F093+5+/1/tni7v57k8H+RGOp/jpgn/42XZX+OliK/l1l
+			gf4RFyj+AAIH/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAv4ICxT+LEFU/kFRef5MWYj+ZXSd/o6l
+			v/6pt8r+sL7S/rjF1v67ydn+uMze/rvZ6v7P5ff+vNrp/pS+zv6AqLv+y9zy/rzL3/5njKL+IFh8/i9k
+			ov4yapP+ZIel/rG90/7m5Pb+xcnd/kdjqf4vWpb+OmGM/lBjhf5oZYD+EhIY/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAb+Cw8h/kFXav5WaH/+bHaR/oSOp/6crr/+obHH/rDC2v65yuH+vs7h/sDS
+			4v7E2+3+1eb2/sXd7P6jxNT+kbDB/uPs9v6hr7/+S3uQ/iBpjv43eLj+N22o/ilblv5lfqn+vbjM/s7J
+			0/5tc6j+TGCb/mF9qP5/lKr+Xltv/hAQFP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAI/g0R
+			J/5KYnb+Z3qK/n2LnP6Snq/+orLC/qe5zf6xx9/+uMvl/r3O5P7D1OX+ytvs/svb7P7G2uv+ssvc/pqy
+			xf7f3en+mKOz/leFmP5DiaT+W5W//jtvpf40YZT+eIuu/svE0/7QytT+jo2v/n2Js/6Opcb+kqO2/kM/
+			Tv4MCw7+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAACf4PEyr+UGl9/nGDlP6ElKX+k6Kz/qKw
+			w/6zxdT+tMjf/rTH4f64yeH+wNHj/sXT5P66zN/+wNPm/rvO4v6bscX+vrzS/qyxwv6AnrD+ZZmr/nOm
+			uP41b5X+WHuX/q+3x/7v6PH+zcnZ/oaPqf6as8r+rMXa/o+brv40MD3+CQgK/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAr+EhYu/l1whP54hpr+i5ep/pajtv6frsH+ucXW/rPE3P6xwdv+tcXb/rzL
+			3f6ywtX+rMDT/rjJ3P68y97+o7fL/paiuf7Y0+b+urzQ/nmVqf5up7f+PICX/miJnf66ws3+7u70/r2+
+			1P5IZ4f+hLHF/qjK2f6IkaT+R0JS/g0MD/4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAH/hEU
+			KP5eb4L+e4qa/pGgsv6drL/+oq7B/q64zv6xvtX+sb7W/rC/1v6vv9b+qbvP/rLB1P6+ytz+ytbo/s3c
+			8P6eqcD+vcHa/tDS6/7HzuL+prnJ/pKwwf6yxdX+1OHt/tro8/6vv9D+c4KW/m6GmP5+j6P+dXWK/hwX
+			J/4FBAb+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAABP4PER/+U191/nyLm/6Xpbb+pLDF/qu1
+			y/6uts7+sr3Q/rS+1P6xutT+q7PO/q20zf68xdn+yNDi/tLY7P7Z3/b+wsXe/sfN5P7K1ev+xtXq/sDN
+			4/7G1en+ztnr/svU5/68x9r+orTI/ouarf52ipz+XGyC/jc7Uv4HBQr+AQEB/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAH+Cw0W/j1HYf5zgZT+lKK0/qSwxv6tt83+sbjO/re90P63u9H+s7XO/rCx
+			yv63t9H+w8bc/snO4/7P1On+2Nvy/tfW7v7R1Or+yNLn/sLP5f7EzuX+xc/m/sDF3P6zts/+oarC/pCk
+			uP6FlKj+a3iQ/j9HYf4QEyf+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gYI
+			Dv4iMEz+Xm6D/oSVqf6aqL7+p7TI/q+3yv62uc7+tbXM/rOxyP6zscb+vrzU/sPC2/7Dx93+x83h/tHV
+			6/7Y2O3+1dTr/tDR6f7KzuX+wMng/rG80/6prcj+oaO//pWdtv6GmKr+dYKY/lpee/4uLEf+BAIP/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4ABQr+Bx88/j9Ybf5ofZD+h5et/put
+			wv6eq8L+pa3F/quuxf6trcL+rKu+/ra2zP66utT+vr7X/sTD2v7Kyt/+0tLn/tjW7v7a2PL+19ny/svY
+			7v69zd/+tMDW/qyyy/6go7z+k5mv/nyInv5eYXz+LCs9/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAG/gEFJ/4nO1j+S153/mh1jv58h6P+j5y1/pWju/6apLv+nqK4/qKh
+			tf6np7z+ra3H/rS0y/64uMz+u7rP/sfH3f7Q0en+1dbu/tPW7v7H0Of+vcLa/rS30f6xssv+sLDG/qOo
+			vv6FiKX+Q0Ji/hIRI/4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			Av4AAA3+DBk5/i09Xf5OXXf+ZG6I/m18lP5zgZz+f4yn/omRrf6Ojqn+k5Op/qGguv6sq8X+srLK/rOz
+			yv66utD+wcHY/sTF3P7Cwtn+trfQ/qytxv6qqsL+q6rB/qiovv6cnbX+ZmaI/iYlOv4FBAv+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAFGv4RHDz+LDtb/klX
+			cv5aZ3/+W2iD/mRzj/5xf5z+f4ai/n6Amf6NjKf+m5q1/qOjvf6mpr7+qam//qysw/6trMT+qqnA/qOg
+			uv6hn7f+oqC3/qCetP6Skqr+dXWT/jU0T/4ODhf+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAT+AAMZ/gwXOP4nOFn+SVRy/k5adf5RYHr+XGyH/nB9
+			l/5rdI7+dXiT/oCCnP6LjKf+kJGs/pKTrf6Tk67+kpOt/pKUrf6Ula3+mJev/pSUqv6Ghp3+aWqE/jk5
+			WP4JCRb+AAAD/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAA7+AgUw/hcoUv44SGr+RlJw/kxVcv5TX3z+Xm+K/mFqhf5la4f+bXOP/nZ7
+			mf56fJz+eH2Z/nmCnP6Bi6P+iJOq/oKLpP5tc43+TE5v/iQkRv4AAA7+AAAB/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8ANDT+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAC/gAB
+			Cf4EBxX+Cg4w/hwfR/4uMFb+OTtd/kNMbf5OVnT+U1h2/ldZef5dYH/+aWyK/mhvjP5nbYz+ZmqL/l9j
+			hf5DSGz+IiRO/g8QLf4GBg/+AAAC/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+ADQ0/gD+
+			/v4A////ADQ0/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAD/gAADf4HBxf+Dw8i/hQT
+			L/4cHj/+JShM/istUf4vL1T+MTJV/jQ0Wf40NFn+MTFU/issSv4hIj3+FBUm/gYHGP4AAAv+AAAB/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gA0NP4A/v7+AP///wA0NP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAA/4AAAz+BAMW/ggIH/4MDCP+Dg4l/g4O
+			Jf4MCyP+DAoj/goIHv4FBRb+AAAM/gAAAf4AAAD+AAAA/gAAAP4AAAD+AAAA/gAAAP4AAAD+AAAA/gAA
+			AP4AAAD+AAAA/gAAAP4ANDT+AP7+/gD///8AXV3+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAz
+			M/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAz
+			M/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+ADMz/gAzM/4AMzP+AF1d/gD+
+			/v4A////AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9
+			/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9
+			/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/f3+AP39/gD9/f4A/v7+AAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAA
+			</imageData>
+		</image>
+		<element type="DigPoint" idx="1">
+			<name>16_DV</name>
+			<coords x="-257.149810791016" y="-50.1107711791992" z="19.8794841766357"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="2">
+			<name>16_MV</name>
+			<coords x="-257.036743164062" y="-92.8758392333984" z="17.7178821563721"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="3">
+			<name>16_MP</name>
+			<coords x="-192.908767700195" y="-57.6115798950195" z="5.19954442977905"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="4">
+			<name>55_MP</name>
+			<coords x="-166.377624511719" y="-163.489318847656" z="0.168829932808876"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="5">
+			<name>53_C</name>
+			<coords x="-148.511016845703" y="-307.327423095703" z="-2.64095830917358"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="6">
+			<name>26_DV</name>
+			<coords x="260.125610351562" y="-37.0561103820801" z="8.09312343597412"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="7">
+			<name>26_MV</name>
+			<coords x="258.327819824219" y="-89.5264129638672" z="3.07027626037598"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="8">
+			<name>26_MP</name>
+			<coords x="188.308410644531" y="-69.196174621582" z="-7.71431016921997"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="9">
+			<name>65_MP</name>
+			<coords x="171.038055419922" y="-161.604339599609" z="-8.53633689880371"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="10">
+			<name>63_C</name>
+			<coords x="147.081115722656" y="-307.537170410156" z="-5.6458592414856"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="11">
+			<name>46_DV</name>
+			<coords x="-240.676177978516" y="-66.0554046630859" z="24.3799381256104"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="12">
+			<name>46_MV</name>
+			<coords x="-233.560211181641" y="-110.825653076172" z="16.8236255645752"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="13">
+			<name>46_ML</name>
+			<coords x="-171.041381835938" y="-91.4334487915039" z="5.63624048233032"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="14">
+			<name>85_ML</name>
+			<coords x="-146.953323364258" y="-192.484939575195" z="6.84714889526367"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="15">
+			<name>83_C</name>
+			<coords x="-122.927764892578" y="-330.379119873047" z="3.25605154037476"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="16">
+			<name>36_DV</name>
+			<coords x="233.374954223633" y="-50.685131072998" z="3.68639922142029"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="17">
+			<name>36_MV</name>
+			<coords x="226.573989868164" y="-92.4156112670898" z="0.653609395027161"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="18">
+			<name>36_ML</name>
+			<coords x="168.033813476562" y="-80.978141784668" z="-7.94898080825806"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="19">
+			<name>75_ML</name>
+			<coords x="151.059906005859" y="-187.629730224609" z="-9.1155424118042"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="20">
+			<name>73_C</name>
+			<coords x="130.036041259766" y="-328.369171142578" z="-11.1147375106812"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="21">
+			<name>16_Groove_G</name>
+			<coords x="-271.412139892578" y="-75.7134094238281" z="58.5947494506836"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="22">
+			<name>26_Groove_G</name>
+			<coords x="272.480895996094" y="-76.7553787231445" z="39.2025413513184"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="23">
+			<name>46_groove_g</name>
+			<coords x="-265.336822509766" y="-84.7906494140625" z="-6.6772518157959"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DigPoint" idx="24">
+			<name>36_groove_g</name>
+			<coords x="266.85693359375" y="-77.9546966552734" z="-29.6395092010498"/>
+			<type>Normal</type>
+			<typeParams d3="1" aux1="0" aux2="0" aux3="0"/>
+			<edgeLock range="0" angle="0" transition="1" bias="0" dir1="0" dir2="0" orientCursor="1"/>
+		</element>
+		<element type="DerPoint" idx="25">
+			<name>16_CP</name>
+			<type>Best Fit Plane</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="35" ref2="26"/>
+		</element>
+		<element type="DerPoint" idx="26">
+			<name>16_C_2</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="35" ref2="21"/>
+		</element>
+		<element type="DerPoint" idx="27">
+			<name>26_CP_2</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="36" ref2="22"/>
+		</element>
+		<element type="DerPoint" idx="28">
+			<name>26_CP</name>
+			<type>Best Fit Plane</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="36" ref2="27"/>
+		</element>
+		<element type="DerPoint" idx="29">
+			<name>Checkpoint_upper</name>
+			<type>Intersection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="25" ref2="26" ref3="28" ref4="27"/>
+		</element>
+		<element type="DerPoint" idx="30">
+			<name>46_C_2</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="38" ref2="23"/>
+		</element>
+		<element type="DerPoint" idx="31">
+			<name>36_C_2</name>
+			<type>Best Fit Plane Normal</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="37" ref2="24"/>
+		</element>
+		<element type="DerPoint" idx="32">
+			<name>46_C</name>
+			<type>Best Fit Plane</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="38" ref2="30"/>
+		</element>
+		<element type="DerPoint" idx="33">
+			<name>36_C</name>
+			<type>Best Fit Plane</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="37" ref2="31"/>
+		</element>
+		<element type="DerPoint" idx="34">
+			<name>Chenckpoint_lower</name>
+			<type>Intersection</type>
+			<typeParams aux1="0" aux2="0" aux3="0" ref1="31" ref2="33" ref3="30" ref4="32"/>
+		</element>
+		<element type="Drawing" idx="35">
+			<name>16_occlusal_plane</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>1 3 2</points>
+		</element>
+		<element type="Drawing" idx="36">
+			<name>26_occlusal_plane</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>6 8 7</points>
+		</element>
+		<element type="Drawing" idx="37">
+			<name>36_occlusal_plane</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>16 18 17</points>
+		</element>
+		<element type="Drawing" idx="38">
+			<name>46_occlusal_plane</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>11 13 12</points>
+		</element>
+		<element type="Drawing" idx="39">
+			<name>checkpoint_upper</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>25 28 29</points>
+		</element>
+		<element type="Drawing" idx="40">
+			<name>Checkpoint_lower</name>
+			<type>Line</type>
+			<typeParams marker="0" aux1="100" morph="0"/>
+			<display show="0" draw="2"/>
+			<colour link="0" rgb="0"/>
+			<pen style="0" width="0"/>
+			<fill style="1" transparent="0"/>
+			<points>33 32 34</points>
+		</element>
+		<element type="Variable" idx="41">
+			<name>16_26_torque</name>
+			<type>3D Angle 180</type>
+			<typeParams aux1="0" ref1="25" ref2="26" ref3="28" ref4="27"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="42">
+			<name>16_26_rotation</name>
+			<type>3D Angle 180</type>
+			<typeParams aux1="0" ref1="1" ref2="3" ref3="6" ref4="8"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="43">
+			<name>16_26_MP_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="3" ref2="8"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="44">
+			<name>16_26_MV_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="2" ref2="7"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="45">
+			<name>EU_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="4" ref2="9"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="46">
+			<name>CU_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="5" ref2="10"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="47">
+			<name>36_46_torque</name>
+			<type>3D Angle 180</type>
+			<typeParams aux1="0" ref1="31" ref2="33" ref3="30" ref4="32"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="48">
+			<name>36_35_rotation</name>
+			<type>3D Angle 180</type>
+			<typeParams aux1="0" ref1="16" ref2="18" ref3="11" ref4="13"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="49">
+			<name>36_46_ML_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="18" ref2="13"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="50">
+			<name>36_46_MV_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="17" ref2="12"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="51">
+			<name>EL_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="19" ref2="14"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Variable" idx="52">
+			<name>CL_distance</name>
+			<type>Distance1</type>
+			<typeParams aux1="0" ref1="20" ref2="15"/>
+			<anchor pt="0" x="10" y="-10" z="0" align="0"/>
+			<display mode="7" showName="0"/>
+			<format txtBefore="" numFormat="0.#" txtAfter="" style="1"/>
+		</element>
+		<element type="Analysis" idx="53">
+			<name>Studio_espansori Brescia</name>
+			<variables>45 51 46 52 47 50 49 48 41 42 44 43</variables>
+		</element>
+		<element type="Protocol" idx="54">
+			<name>digitization_protocol</name>
+			<params autoAdvance="1" beep="1" errorMargin="2"/>
+			<points>1 2 3 21 6 7 8 22 4 9 5 10 16 17 18 24 11 12 13 23 19 
+			14 20 15</points>
+		</element>
+	</template>
+</patientTemplate>
